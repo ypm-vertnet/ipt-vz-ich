@@ -1,0 +1,77 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 232
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Sweden ; Times: 4
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 2
+	Date: 2014-12-04 ; Times: 1
+	Date: 2014-12-08 ; Times: 1
+	Date: 2014-12-09 ; Times: 1
+	Date: 2014-12-10 ; Times: 1
+	Date: 2014-12-24 ; Times: 3
+	Date: 2014-12-29 ; Times: 2
+	Date: 2014-12-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "coelacanth" ; Times: 1
+	Query: "Anguilla rostrata mexico" ; Times: 4
+	Query: "Etheostoma virgatum" ; Times: 2
+	Query: "country:"Sweden"" ; Times: 1
+	Query: "Danio dangila" ; Times: 2
+	Query: "Gasterosteus aculeatus year >= 1800 year <= 1980" ; Times: 1
+	Query: "Danio rerio" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 238 download events in this period)
+Total number of records downloaded: 90 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 90
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-03 ; Times: 2
+	Date: 2014-12-04 ; Times: 1
+	Date: 2014-12-10 ; Times: 2
+	Date: 2014-12-16 ; Times: 1
+	Date: 2014-12-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pterois" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:punctatus genus:ictalurus" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "Calfkiller River" ; Times: 1
+	Query: "DINEMATICHTHYS ILUOCOETEOIDES" ; Times: 1
+	Query: "Gasterosteus aculeatus type:specimen year >= 1800 year <= 1940" ; Times: 1
+	Query: "genus:halichoeres year >= 1850 year <= 1946" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 20
+Total number of records retrieved from searches: 354
+Number of download events that retrieved data from the resource: 9
+Total number of records downloaded: 112
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 20
+Total number of records retrieved from searches: 354
+Number of download events that retrieved data from the resource: 9
+Total number of records downloaded: 112
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
