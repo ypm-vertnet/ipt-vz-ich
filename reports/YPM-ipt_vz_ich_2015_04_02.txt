@@ -1,0 +1,97 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 209
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 4
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-13 ; Times: 8
+	Date: 2015-03-14 ; Times: 1
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "mentodus mesalirus" ; Times: 2
+	Query: "nasuta AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "distance(location,geopoint(39.67337039176558,-66.9287109375))<100000" ; Times: 1
+	Query: "albulidae" ; Times: 1
+	Query: "maulisia microlepis" ; Times: 1
+	Query: "San Francisquito Baja" ; Times: 1
+	Query: "Diaphus garmani" ; Times: 1
+	Query: "alburnus" ; Times: 1
+	Query: "cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "blue marlin" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 2
+	Query: "Percina palmaris alabama" ; Times: 1
+	Query: "searsia koefoedi" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "sardina country:"nicaragua"" ; Times: 1
+	Query: "antimora type:specimen year <= 2000" ; Times: 1
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "ambassis urotaenia" ; Times: 7
+	Query: "coris gaimard" ; Times: 1
+	Query: "Percina palmaris" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "catalognumber:000250" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "10-7-1853" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 298 download events in this period)
+Total number of records downloaded: 20 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 20
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tuna year >= 1950 year <= 1970 mappable:1" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 79
+Total number of records retrieved from searches: 981
+Number of download events that retrieved data from the resource: 14
+Total number of records downloaded: 1671
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 100
+Total number of records retrieved from searches: 1294
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 1783
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
