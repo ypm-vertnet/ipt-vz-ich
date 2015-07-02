@@ -1,0 +1,129 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 225
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Italy ; Times: 6
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-05 ; Times: 2
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-08 ; Times: 4
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-10 ; Times: 5
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-15 ; Times: 5
+	Date: 2015-06-17 ; Times: 11
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-24 ; Times: 19
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-26 ; Times: 4
+	Date: 2015-06-29 ; Times: 1
+	Date: 2015-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyprinella gibbsi coosa" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "Alligator Mexico" ; Times: 2
+	Query: "myxini" ; Times: 1
+	Query: "bellator xenisma" ; Times: 2
+	Query: "Okaloosae" ; Times: 1
+	Query: "Tiburon Island" ; Times: 3
+	Query: "7348 tissue:1" ; Times: 2
+	Query: "Elasmobranchii media:1" ; Times: 6
+	Query: "Atherinops affinis" ; Times: 1
+	Query: "decapterus macarellus" ; Times: 1
+	Query: "alphestes afer" ; Times: 1
+	Query: "micropogonias ectenes" ; Times: 1
+	Query: "decussatus" ; Times: 1
+	Query: "coris gaimard" ; Times: 1
+	Query: "Rhinoptera" ; Times: 1
+	Query: "lutjanus guttatus" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 1
+	Query: "stateprovince:"arkansas" tissue:1" ; Times: 2
+	Query: ""Ictiobus bubalus"" ; Times: 1
+	Query: "Natural History Museum London" ; Times: 1
+	Query: "Atherinops affinis type:specimen" ; Times: 1
+	Query: "rhinochimaera atlantica" ; Times: 4
+	Query: "lutjanus inermis" ; Times: 1
+	Query: "oligoplites refulgens" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "Alphestes multiguttatus" ; Times: 1
+	Query: "Dermatolepis dermatolepis type:specimen" ; Times: 1
+	Query: "catenatus missouri" ; Times: 5
+	Query: "sardinops sagax" ; Times: 1
+	Query: "genus:ictalurus mappable:1 tissue:1" ; Times: 1
+	Query: "percina rex" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "Pristis pristis" ; Times: 1
+	Query: "Micropterus punctulatus" ; Times: 1
+	Query: "type:specimen (Cephalopholis)" ; Times: 1
+	Query: "Sturgeon skeleton" ; Times: 1
+	Query: "pristis pristis" ; Times: 6
+	Query: "hyporhamphus gilli" ; Times: 1
+	Query: "county:"Terrell" stateprovince:"Texas" year >= 1980 year <= 2015" ; Times: 1
+	Query: "thalassoma trilobatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1524 download events in this period)
+Total number of records downloaded: 1247 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1205
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 2
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 5
+	Date: 2015-06-17 ; Times: 2
+	Date: 2015-06-24 ; Times: 2
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "turkey" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Elasmobranchii media:1" ; Times: 2
+	Query: "guatemala" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "percina rex" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 192
+Total number of records retrieved from searches: 1402
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 4221
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 213
+Total number of records retrieved from searches: 1715
+Number of download events that retrieved data from the resource: 45
+Total number of records downloaded: 4333
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
