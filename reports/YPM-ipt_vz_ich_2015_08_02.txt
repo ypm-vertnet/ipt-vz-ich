@@ -1,0 +1,148 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 337
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 35
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-07 ; Times: 4
+	Date: 2015-07-08 ; Times: 12
+	Date: 2015-07-09 ; Times: 8
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-11 ; Times: 2
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 8
+	Date: 2015-07-14 ; Times: 6
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-20 ; Times: 6
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-23 ; Times: 8
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-25 ; Times: 2
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Atractosteus florida" ; Times: 1
+	Query: "scartella" ; Times: 1
+	Query: "lophius" ; Times: 2
+	Query: "pristis pectinata" ; Times: 3
+	Query: "macrocephala institutioncode:YPM" ; Times: 1
+	Query: "odonus niger" ; Times: 1
+	Query: "Leptodon" ; Times: 1
+	Query: "chirocentrus dorab" ; Times: 1
+	Query: "paraclinus mexicanus" ; Times: 1
+	Query: "Bermuda" ; Times: 1
+	Query: "brotula gulf" ; Times: 1
+	Query: "parascorpaena mossambica" ; Times: 4
+	Query: "Regalecus" ; Times: 9
+	Query: "plectorhinchus schotaf" ; Times: 2
+	Query: "Opisthopterus gulf" ; Times: 2
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "lemairii" ; Times: 1
+	Query: "etrumeus gulf" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:buchanani genus:Notropis" ; Times: 3
+	Query: "thryssa hamiltonii" ; Times: 1
+	Query: "Poecilia" ; Times: 1
+	Query: "Etheostoma barbouri" ; Times: 2
+	Query: "seriola rivoliana gulf" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "taeniata" ; Times: 2
+	Query: "county:"McCormick" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "catalognumber:022215" ; Times: 1
+	Query: "seriola gulf" ; Times: 1
+	Query: "fowleria vaiulae" ; Times: 1
+	Query: "naucrates gulf" ; Times: 1
+	Query: "Gnathanodon gulf" ; Times: 1
+	Query: "hemitaurichthys zoster" ; Times: 1
+	Query: "thryssa setirostris" ; Times: 3
+	Query: "Ypm stateprovince:"Vermont"" ; Times: 1
+	Query: "county:"Lexington" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: "Acipenseridae" ; Times: 2
+	Query: "naucrates ductor gulf" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 2
+	Query: "sargocentron inaequalis" ; Times: 4
+	Query: "laevigatus" ; Times: 2
+	Query: "Encheliophis homei" ; Times: 2
+	Query: "tissue:1 distance(location,geopoint(32.84267363195431,-79.8046875))<100000" ; Times: 1
+	Query: "parablennius pilicornis" ; Times: 1
+	Query: "lepisosteus florida" ; Times: 1
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "apogon truncatus" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama" ; Times: 3
+	Query: "carangoides malabaricus" ; Times: 1
+	Query: "pristis pristis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1084 download events in this period)
+Total number of records downloaded: 1951 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1676
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Dominican Republic ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Regalecus" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "regalecus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 274
+Total number of records retrieved from searches: 1739
+Number of download events that retrieved data from the resource: 46
+Total number of records downloaded: 6172
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 295
+Total number of records retrieved from searches: 2052
+Number of download events that retrieved data from the resource: 55
+Total number of records downloaded: 6284
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
