@@ -1,0 +1,121 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 362
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 49
+	Country: Germany ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Russia ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 5
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-07 ; Times: 8
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-22 ; Times: 3
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 4
+	Date: 2015-12-26 ; Times: 7
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-14 ; Times: 10
+	Date: 2015-12-15 ; Times: 6
+	Date: 2015-12-30 ; Times: 2
+	Date: 2015-12-17 ; Times: 6
+	Date: 2015-12-10 ; Times: 4
+	Date: 2015-12-11 ; Times: 6
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-18 ; Times: 4
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "percina rex" ; Times: 1
+	Query: "pristis pectinata" ; Times: 2
+	Query: "mounted type:specimen year &lt;= 1930" ; Times: 2
+	Query: "family:loricariidae" ; Times: 1
+	Query: "Epinephelus striatus" ; Times: 2
+	Query: "genus:Menidia tissue:1" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "lampetra" ; Times: 1
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "B761" ; Times: 1
+	Query: "apodus" ; Times: 1
+	Query: "diplobatis" ; Times: 1
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "osburn" ; Times: 1
+	Query: "Remora australis" ; Times: 1
+	Query: "acutus" ; Times: 1
+	Query: "Jackson 1889" ; Times: 1
+	Query: "Percina rex (Virginia)" ; Times: 2
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 1
+	Query: "minot" ; Times: 2
+	Query: "torpedo" ; Times: 3
+	Query: "Ocyurus chrysurus" ; Times: 4
+	Query: "typhlichthys kentucky" ; Times: 1
+	Query: "locality:Rio Colorado country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mycteroperca venenosa" ; Times: 1
+	Query: "Erimonax monachus" ; Times: 1
+	Query: "institutioncode:ypm Psittacus" ; Times: 2
+	Query: "Mormyrus" ; Times: 1
+	Query: "Ammocrypta clara" ; Times: 4
+	Query: "unicorn" ; Times: 12
+	Query: "sargocentron spiniferum" ; Times: 6
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "distance(location,geopoint(24.56710835257599,-75.662841796875))&lt;100000" ; Times: 1
+	Query: "rhinichthys atratulus" ; Times: 1
+	Query: "Percina rex" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "catalognumber:013741 institutioncode:YPM" ; Times: 2
+	Query: "Etheostoma variatum (&#34;Virginia&#34;)" ; Times: 1
+	Query: "acuminatus" ; Times: 1
+	Query: "Notropis atherinoides" ; Times: 1
+	Query: "genus:Menidia year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 889 download events in this period)
+Total number of records downloaded: 811
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "locality:Rio Colorado country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
