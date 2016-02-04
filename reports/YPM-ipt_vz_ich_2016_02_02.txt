@@ -1,0 +1,133 @@
+Report for Institution Code YPM, Resource VZ
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 363
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Russia ; Times: 9
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 5
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-15 ; Times: 6
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-19 ; Times: 8
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-24 ; Times: 5
+	Date: 2016-01-25 ; Times: 9
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"TN, NC"" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "Syngnathidae tissue:1" ; Times: 4
+	Query: "Typhlops tissue:1" ; Times: 3
+	Query: "mulloidichthys flavolineatus maldives" ; Times: 2
+	Query: "unicorn" ; Times: 8
+	Query: "tangerine darter" ; Times: 3
+	Query: "cichlid" ; Times: 1
+	Query: "Lampetra appendix" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 2
+	Query: "Percina macrocephala" ; Times: 1
+	Query: "distance(location,geopoint(29.429036,-113.527516))<15000" ; Times: 1
+	Query: "Etheostoma zonale" ; Times: 1
+	Query: "Pimephales notatus" ; Times: 1
+	Query: "Noturus eleutherus" ; Times: 1
+	Query: "Lampetra appendix stateprovince:"Tennessee"" ; Times: 1
+	Query: "family:Notopteridae" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "cm 4446" ; Times: 1
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 4
+	Query: "etheostoma osburni" ; Times: 2
+	Query: "family:Dasyatidae country:"USA"" ; Times: 2
+	Query: "Etowah County" ; Times: 1
+	Query: "etheostoma jessiae" ; Times: 1
+	Query: "percina nasuta" ; Times: 4
+	Query: "distance(location,geopoint(25.179036,-110.807516))<15000" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "genus:Etheostoma stateprovince:"Florida"" ; Times: 1
+	Query: "etheostoma stigmaeum lee county" ; Times: 1
+	Query: "family:Rivulidae" ; Times: 1
+	Query: "gempylus serpens" ; Times: 1
+	Query: "family:Amblyopsidae" ; Times: 1
+	Query: "county:"Franklin" stateprovince:"Arkansas"" ; Times: 1
+	Query: "alestopetersius caudalis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 507 download events in this period)
+Total number of records downloaded: 966 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 950
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 8
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""False Bay"" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "Astyanax mexicanus Texas type:specimen year >= 2000 year <= 2016" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Scarinae" ; Times: 1
+	Query: "Etheostoma tallapoosae alabama" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 18
+Total number of records downloaded: 966
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 61
+Total number of records retrieved from searches: 363
+Number of download events that retrieved data from the resource: 18
+Total number of records downloaded: 966
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
