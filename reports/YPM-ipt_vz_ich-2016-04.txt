@@ -1,0 +1,485 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 315
+Number of records retrieved in searches: 2085
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 65
+	Country: Panama ; Times: 126
+	Country: United States ; Times: 39
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 57
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-07 ; Times: 27
+	Date: 2016-04-06 ; Times: 16
+	Date: 2016-04-05 ; Times: 7
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-22 ; Times: 82
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 33
+	Date: 2016-04-26 ; Times: 1
+	Date: 2016-04-08 ; Times: 27
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 46
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-15 ; Times: 8
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-10 ; Times: 5
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 11
+	Date: 2016-04-29 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(22.799036,-109.787516))&lt;15000" ; Times: 2
+	Query: "catalognumber:026972 institutioncode:YPM" ; Times: 2
+	Query: "GRAMMATIDAE" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 3
+	Query: "distance(location,geopoint(24.329036,-110.297516))&lt;15000" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 2
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.787516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(30.959036,-114.887516))&lt;15000" ; Times: 1
+	Query: "synodus maldives" ; Times: 3
+	Query: "BELONIDAE" ; Times: 4
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "distance(location,geopoint(30.279036,-114.207516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-114.717516))&lt;15000" ; Times: 1
+	Query: "LABRISOMIDAE" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.787516))&lt;15000" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "DRACONETTIDAE" ; Times: 1
+	Query: "Zalieutes" ; Times: 3
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 2
+	Query: "Ictiobus bubalus" ; Times: 1
+	Query: "pseudogramma maldives" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.637516))&lt;15000" ; Times: 1
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "albula maldives" ; Times: 2
+	Query: "CHAENOPSIDAE" ; Times: 1
+	Query: "syngnathidae maldives" ; Times: 1
+	Query: "dinematichthys maldives" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-110.977516))&lt;15000" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "Monkey media:1" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.357516))&lt;15000" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 3
+	Query: "heterodontidae" ; Times: 2
+	Query: "distance(location,geopoint(25.519036,-111.147516))&lt;15000" ; Times: 1
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "fowleria maldive" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-113.697516))&lt;15000" ; Times: 1
+	Query: "Nocomis micropogon" ; Times: 1
+	Query: "TRIACANTHODIDAE" ; Times: 3
+	Query: "distance(location,geopoint(22.969036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-114.717516))&lt;15000" ; Times: 1
+	Query: "fowleria maldives" ; Times: 2
+	Query: "distance(location,geopoint(22.799036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "plectorhinchus lineatus" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "conger maldives" ; Times: 2
+	Query: "dasyatis americana" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.617516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "Hippoglossina" ; Times: 2
+	Query: "longirostris year &gt;= 2010 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "apogonidae maldive" ; Times: 2
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "clupeidae maldives" ; Times: 1
+	Query: "Loricariidae" ; Times: 2
+	Query: "NEMATISTIIDAE" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 7
+	Query: "distance(location,geopoint(25.859036,-112.167516))&lt;15000" ; Times: 1
+	Query: "atherinidae maldives" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-113.017516))&lt;15000" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "Menidia tissue:1" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "carapidae maldives" ; Times: 1
+	Query: "Strongylura exilis" ; Times: 1
+	Query: "antennarius avalonis" ; Times: 1
+	Query: "belonidae maldives" ; Times: 1
+	Query: "heterodontus" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Dickenson county virginia" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "distance(location,geopoint(28.409036,-112.847516))&lt;15000" ; Times: 1
+	Query: "brotula maldives" ; Times: 1
+	Query: "congridae maldives" ; Times: 4
+	Query: "trinectes" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.467516))&lt;15000" ; Times: 1
+	Query: "catalognumber:015679 institutioncode:YPM" ; Times: 1
+	Query: "exocoetidae maldives" ; Times: 3
+	Query: "stateprovince:&#34;St. Croix&#34;" ; Times: 1
+	Query: "muraenichthys maldives" ; Times: 3
+	Query: "distance(location,geopoint(24.159036,-108.597516))&lt;15000" ; Times: 1
+	Query: "NARCINIDAE" ; Times: 1
+	Query: "uropterygius maldives" ; Times: 4
+	Query: "DACTYLOSCOPIDAE" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.787516))&lt;15000" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "ZANCLIDAE" ; Times: 3
+	Query: "distance(location,geopoint(23.649036,-109.617516))&lt;15000" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 4
+	Query: "GRAMMICOLEPIDIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "menidia menidia tissue:1" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.637516))&lt;15000" ; Times: 1
+	Query: "hyporhamphus maldives" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-106.217516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(20.759036,-106.217516))&lt;15000" ; Times: 4
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "moringua maldives" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.707516))&lt;15000" ; Times: 4
+	Query: "odontesthes tissue:1" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 3
+	Query: "scorpaenopsis maldives" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-110.807516))&lt;15000" ; Times: 1
+	Query: "leiuranus maldives" ; Times: 1
+	Query: "Lucania parva" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-114.887516))&lt;15000" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 3
+	Query: "distance(location,geopoint(24.159036,-108.767516))&lt;15000" ; Times: 1
+	Query: "RAJIDAE" ; Times: 2
+	Query: "distance(location,geopoint(30.449036,-114.717516))&lt;15000" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 3
+	Query: "MOLIDAE" ; Times: 3
+	Query: "plesiops maldives" ; Times: 1
+	Query: "mugilidae maldives" ; Times: 1
+	Query: "Tylosurus" ; Times: 2
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 2
+	Query: "distance(location,geopoint(30.959036,-114.717516))&lt;15000" ; Times: 1
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "ophichthidae maldives" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 2
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "hemiramphidae maldives" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-110.637516))&lt;15000" ; Times: 2
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-113.357516))&lt;15000" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "Hyporhamphus" ; Times: 2
+	Query: "STERNOPYGIDAE" ; Times: 2
+	Query: "Muraena" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "cypselurus comatus" ; Times: 3
+	Query: "OPISTOGNATHIDAE" ; Times: 3
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "ALOPIAS VULPINUS" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "Euphorbiaceae" ; Times: 2
+	Query: "distance(location,geopoint(27.389036,-112.337516))&lt;15000" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "RHINOCHIMAERIDAE" ; Times: 2
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "DASYATIDAE" ; Times: 2
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "Gymnotus gymnotus" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Vliet" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "echidna maldives" ; Times: 4
+	Query: "scorpaenodes maldives" ; Times: 1
+	Query: "dimidiata" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "menidia peninsulae tissue:1" ; Times: 1
+	Query: "Lepisosteus osseus" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "scorpaenidae maldives" ; Times: 1
+	Query: "bythitidae maldives" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 2
+	Query: "TRIAKIDAE" ; Times: 2
+	Query: "AMMODYTIDAE]" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "CHAUNACIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "Gymnotus" ; Times: 1
+	Query: "boobie" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "SCOPHTHALMIDAE" ; Times: 2
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "Mobile Alabama" ; Times: 1
+	Query: "stolzmanni" ; Times: 2
+	Query: "distance(location,geopoint(20.929036,-106.217516))&lt;15000" ; Times: 3
+	Query: "Felis AND Island" ; Times: 1
+	Query: "coregonus" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Smyrna" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.387516))&lt;15000" ; Times: 1
+	Query: "brachysomophis maldives" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "ostraciidae maldive" ; Times: 1
+	Query: "gymnothorax maldives" ; Times: 4
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.467516))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 212 (out of 1312 download events in this period)
+Total number of records downloaded: 19273
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Panama ; Times: 205
+	Country: Argentina ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 70
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 3
+	Date: 2016-04-23 ; Times: 10
+	Date: 2016-04-22 ; Times: 107
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "GRAMMATIDAE" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "DRACONETTIDAE" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "CHAENOPSIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "LABRISOMIDAE" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "EMMELICHTHYIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "TRIACANTHODIDAE" ; Times: 2
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "NARCINIDAE" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "APTERONOTIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "ASPREDINIDAE" ; Times: 1
+	Query: "HEMISCYLLIIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "NEMATISTIIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "ichthyology" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ANABLEPIDAE" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "ARIOMMATIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "DACTYLOSCOPIDAE" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "BREGMACEROTIDAE" ; Times: 1
+	Query: "CHLOROPHTHALMIDAE" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "PINGUIPEDIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ZANCLIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "GRAMMICOLEPIDIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "EPIGONIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "PRISTIGASTERIDAE" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "MOLIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "CENTROPHORIDAE" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "CAPROIDAE" ; Times: 1
+	Query: "STERNOPYGIDAE" ; Times: 2
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "cypselurus comatus" ; Times: 1
+	Query: "OPISTOGNATHIDAE" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "RHINOCHIMAERIDAE" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "CHAUNACIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "SCOPHTHALMIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "AUCHENIPTERIDAE" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+
+
+End of report.
