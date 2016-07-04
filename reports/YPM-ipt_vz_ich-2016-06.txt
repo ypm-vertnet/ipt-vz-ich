@@ -1,0 +1,189 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 777
+Number of records retrieved in searches: 4424
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 57
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 713
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 646
+	Date: 2016-06-24 ; Times: 7
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 25
+	Date: 2016-06-21 ; Times: 9
+	Date: 2016-06-20 ; Times: 9
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-17 ; Times: 4
+	Date: 2016-06-07 ; Times: 34
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 7
+	Date: 2016-06-13 ; Times: 9
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-02 ; Times: 8
+	Date: 2016-06-03 ; Times: 2
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-11 ; Times: 9
+	Date: 2016-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:encrasicolus genus:Engraulis" ; Times: 3
+	Query: "specificepithet:lucida genus:Anchoa" ; Times: 4
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 6
+	Query: "bison bison   " ; Times: 9
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 127
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "specificepithet:curta genus:Anchoa" ; Times: 1
+	Query: "specificepithet:nasus genus:Menticirrhus" ; Times: 1
+	Query: "typhlichthys shelta" ; Times: 8
+	Query: "POLYDACTYLUS OCTONEMUS" ; Times: 4
+	Query: "specificepithet:cataractae genus:Micropterus" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "Breckinridge" ; Times: 1
+	Query: "bubalus" ; Times: 1
+	Query: "specificepithet:xanthopterus genus:Acanthurus" ; Times: 17
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "specificepithet:horrens genus:Prionotus" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "specificepithet:exigua genus:Anchoa" ; Times: 5
+	Query: "specificepithet:averruncus genus:Kathetostoma" ; Times: 1
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 8
+	Query: "crocodile tissue:1" ; Times: 1
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "catalognumber:017934 institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:pollachius genus:Pollachius" ; Times: 7
+	Query: "catalognumber:019389 institutioncode:YPM" ; Times: 3
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 4
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 27
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 14
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "distance(location,geopoint(29.592565403314108,-114.521484375))&lt;30625" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "specificepithet:dermatolepis genus:Dermatolepis" ; Times: 4
+	Query: "specificepithet:rosacea genus:Mycteroperca" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "decussatus" ; Times: 1
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "genus:Mola" ; Times: 4
+	Query: "fundulus grandis" ; Times: 2
+	Query: "specificepithet:peruviana genus:Selene" ; Times: 1
+	Query: "coral snake" ; Times: 1
+	Query: "specificepithet:muroadsi genus:Decapterus" ; Times: 4
+	Query: "Meadows AND Island NOT British" ; Times: 1
+	Query: "chihuahua (fish)" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 3
+	Query: "catalognumber:013495 institutioncode:YPM" ; Times: 2
+	Query: "specificepithet:scituliceps genus:Synodus" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 3
+	Query: "hippichthys cyanospilus" ; Times: 1
+	Query: "polypterus bichir" ; Times: 14
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "catalognumber:013314 institutioncode:YPM" ; Times: 1
+	Query: "guadalupensis" ; Times: 1
+	Query: "YPM 009999" ; Times: 1
+	Query: "specificepithet:analogus genus:Epinephelus" ; Times: 1
+	Query: "Polypterus endlicherii" ; Times: 7
+	Query: "specificepithet:interruptus genus:Anisotremus" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 2
+	Query: "specificepithet:venenosa genus:Mycteroperca" ; Times: 9
+	Query: "catalognumber:011890 institutioncode:YPM" ; Times: 2
+	Query: "specificepithet:ischana genus:Anchoa" ; Times: 2
+	Query: "specificepithet:nasus genus:Anchoa" ; Times: 6
+	Query: "specificepithet:loxias genus:Bellator" ; Times: 2
+	Query: "paraplagusia bilineata" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "specificepithet:elongatus genus:Menticirrhus" ; Times: 1
+	Query: "catalognumber:013303 institutioncode:YPM" ; Times: 1
+	Query: "53 county:&#34;Bladen&#34;" ; Times: 2
+	Query: "Santa Catalina Island AND 1862" ; Times: 1
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 5
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "specificepithet:pinnimaculatus genus:Bagre" ; Times: 2
+	Query: "specificepithet:labriformis genus:Epinephelus" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "Acipenser" ; Times: 1
+	Query: "YPM 008000" ; Times: 2
+	Query: "YPM 008001" ; Times: 1
+	Query: "specificepithet:itajara genus:Epinephelus" ; Times: 1
+	Query: "catalognumber:013873 institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:acclivis genus:Larimus" ; Times: 1
+	Query: "specificepithet:opercularis genus:Polydactylus" ; Times: 2
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "catalognumber:013622 institutioncode:YPM" ; Times: 2
+	Query: "sargocentron punctatissimum red sea" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 90
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "Amia calva" ; Times: 2
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "specificepithet:obesus genus:Thunnus" ; Times: 17
+	Query: "specificepithet:jordani genus:Mycteroperca" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 22
+	Query: "lepisosteidae" ; Times: 11
+	Query: "amia calva" ; Times: 3
+	Query: "specificepithet:multiguttatus genus:Alphestes" ; Times: 1
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 6
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:monoceros genus:Aluterus" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "catalognumber:013624 institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:macrolepidota genus:Anchovia" ; Times: 1
+	Query: "heterodontiformes" ; Times: 4
+	Query: "Meadows AND Island NOT ALaska" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 18
+	Query: "catalognumber:017938 institutioncode:YPM" ; Times: 2
+	Query: "POLYDACTYLUS VIRGINICUS" ; Times: 2
+	Query: "novaculichthys]" ; Times: 1
+	Query: "Meadows AND Island NOT British NOT Singapore" ; Times: 1
+	Query: "latimeria institutioncode:YPM" ; Times: 7
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "YPM 008002" ; Times: 1
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1052 download events in this period)
+Total number of records downloaded: 135
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "erethizon" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Polypterus endlicherii" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "polypterus bichir" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "chihuahua (fish)" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
