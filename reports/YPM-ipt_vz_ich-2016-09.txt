@@ -1,0 +1,96 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 418
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-24 ; Times: 8
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 3
+	Date: 2016-09-08 ; Times: 9
+	Date: 2016-09-09 ; Times: 1
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 33
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-02 ; Times: 2
+	Date: 2016-09-03 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cruentatus genus:Priacanthus" ; Times: 1
+	Query: "specificepithet:declivifrons genus:Abudefduf" ; Times: 1
+	Query: "seriola" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "specificepithet:proboscideus genus:Chaenomugil" ; Times: 1
+	Query: "Typhlops tissue:1" ; Times: 1
+	Query: "milkfish" ; Times: 1
+	Query: "borealis New York" ; Times: 1
+	Query: "specificepithet:elater genus:Zalieutes" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;New Hampshire&#34; continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Uropterygius" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:margaritatus genus:Porichthys" ; Times: 1
+	Query: "specificepithet:williamsi genus:Symphurus" ; Times: 1
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "specificepithet:elongatus genus:Menticirrhus" ; Times: 1
+	Query: "snake media:1" ; Times: 2
+	Query: "specificepithet:clathratus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:papillifer genus:Gobiesox" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 5
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "Tilapia zillii" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Remora remora" ; Times: 7
+	Query: "type:specimen catalognumber:014620 institutioncode:YPM" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "Oreochromis niloticus" ; Times: 3
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:sanguineus genus:Antennarius" ; Times: 1
+	Query: "specificepithet:orqueta genus:Chloroscombrus" ; Times: 1
+	Query: "specificepithet:idiastes genus:Sphyraena" ; Times: 1
+	Query: "specificepithet:sini genus:Paraclinus" ; Times: 1
+	Query: "specificepithet:elongatus genus:Symphurus" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 1
+	Query: "catalognumber:003108 institutioncode:YPM" ; Times: 3
+	Query: "specificepithet:rectifraenum genus:Stegastes" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Cynoscion" ; Times: 1
+	Query: "mycteroperca xenarcha" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "Ensifera CM" ; Times: 1
+	Query: "specificepithet:lugubris genus:Caranx" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 811 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "thailand" ; Times: 2
+
+
+End of report.
