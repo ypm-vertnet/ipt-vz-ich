@@ -1,0 +1,48 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 76
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-06 ; Times: 1
+	Date: 2016-10-07 ; Times: 1
+	Date: 2016-10-05 ; Times: 1
+	Date: 2016-10-03 ; Times: 1
+	Date: 2016-10-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:eriarcha genus:Atherinella mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus mappable:1" ; Times: 1
+	Query: "specificepithet:parvus genus:Sphoeroides mappable:1" ; Times: 1
+	Query: "specificepithet:approximans genus:Polydactylus mappable:1" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pomoxis mappable:1" ; Times: 1
+	Query: "specificepithet:semicinctus genus:Halichoeres mappable:1" ; Times: 1
+	Query: "specificepithet:lepturus genus:Trichiurus mappable:1" ; Times: 1
+	Query: "specificepithet:histrio genus:Scorpaena mappable:1" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus mappable:1" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "specificepithet:zonatus genus:Chaetodipterus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
