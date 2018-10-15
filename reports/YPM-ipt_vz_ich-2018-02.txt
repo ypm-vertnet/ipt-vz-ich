@@ -1,0 +1,248 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 360
+Number of records retrieved in searches: 1755
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 24
+	Country: United States ; Times: 218
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 93
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 2
+	Country: Spain ; Times: 2
+	Country: Japan ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-07 ; Times: 9
+	Date: 2018-02-06 ; Times: 22
+	Date: 2018-02-05 ; Times: 117
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 28
+	Date: 2018-02-20 ; Times: 22
+	Date: 2018-02-23 ; Times: 9
+	Date: 2018-02-22 ; Times: 20
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-27 ; Times: 26
+	Date: 2018-02-26 ; Times: 21
+	Date: 2018-02-28 ; Times: 5
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-16 ; Times: 12
+	Date: 2018-02-10 ; Times: 8
+	Date: 2018-02-11 ; Times: 7
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-18 ; Times: 5
+	Date: 2018-02-19 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "leptochilichthys" ; Times: 1
+	Query: "Hepatus pawnee mappable:1" ; Times: 1
+	Query: "Rivulidae" ; Times: 4
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "Acanthurus bleekeri mappable:1" ; Times: 2
+	Query: "genus:Myctophum hastissue:1" ; Times: 2
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 2
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 3
+	Query: "Zebrasoma scopas" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 1
+	Query: "order:Cyprinodontiformes hastissue:1" ; Times: 4
+	Query: "farlowella acus" ; Times: 2
+	Query: "Ctenochaetus marginatus mappable:1" ; Times: 1
+	Query: "(Pseudochromidae) hastissue:1" ; Times: 4
+	Query: "florida pine snake" ; Times: 1
+	Query: "scientificname:&#34;leporinus agassizii&#34;" ; Times: 1
+	Query: "searsia koefoedi" ; Times: 1
+	Query: "Acanthurus weberi" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 1
+	Query: "crocodile" ; Times: 3
+	Query: "Acanthurus tennentii mappable:1" ; Times: 1
+	Query: "Naso unicornis" ; Times: 1
+	Query: "sand eels" ; Times: 2
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "Hydrolagus affinis" ; Times: 1
+	Query: "specificepithet:annulatus genus:sphoeroides" ; Times: 1
+	Query: "pterois volitans" ; Times: 5
+	Query: "Glossogobius giuris mappable:1" ; Times: 7
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "genus:Percina hastissue:1" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 3
+	Query: "Naso unicornis mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 7
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Acanthurus tennentii" ; Times: 1
+	Query: "15928" ; Times: 1
+	Query: "Potamotrygon motoro" ; Times: 2
+	Query: "cichlid" ; Times: 1
+	Query: "Oliver Jones" ; Times: 1
+	Query: "Hepatus pawnee" ; Times: 1
+	Query: "Hepatus bahianus mappable:1" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 6
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "persparsia kopua" ; Times: 1
+	Query: "Acanthurus auranticavus mappable:1" ; Times: 1
+	Query: "hydrolycus scomberoides" ; Times: 2
+	Query: "specificepithet:lobatus genus:sphoeroides" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "&#34;Micropterus dolomieu&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 16
+	Query: "Batis" ; Times: 1
+	Query: "clepsydra" ; Times: 2
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 2
+	Query: "Acanthurus auranticavus" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "Naso lituratus mappable:1" ; Times: 2
+	Query: "Acanthurus hepatus" ; Times: 2
+	Query: "&#34;Pterygoplichthys pardalis&#34;" ; Times: 2
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Awaous guamensis mappable:1" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "genus:Megalops institutioncode:YPM" ; Times: 6
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 4
+	Query: "Pterygoplichthys pardalis" ; Times: 4
+	Query: "Rhizoprionodon terraenovae" ; Times: 18
+	Query: "hemichromis" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 2
+	Query: "pectinatus" ; Times: 1
+	Query: "Acanthurus japonicus" ; Times: 2
+	Query: "distance(location,geopoint(43.0969710040001,-93.433419615))&lt;16732" ; Times: 4
+	Query: "rhinobatos lentiginosus" ; Times: 2
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "synodus indicus" ; Times: 1
+	Query: "Sicyopterus lagocephalus mappable:1" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 9
+	Query: "&#34;esox niger&#34; hastissue:1" ; Times: 3
+	Query: "Teuthis hepatus" ; Times: 2
+	Query: "genus:Amblygobius basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "13773" ; Times: 1
+	Query: "belonesox belizanus" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "Acanthurus bahianus" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 6
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 1
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "Ctenochaetus marginatus" ; Times: 1
+	Query: "scientificname:&#34;paraclinus sini&#34;" ; Times: 1
+	Query: "Xesurus punctatus" ; Times: 1
+	Query: "Hepatus hepatus mappable:1" ; Times: 2
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "genus:Amblygobius hastissue:1" ; Times: 2
+	Query: "Pterois volitans" ; Times: 22
+	Query: "(pholidichthys) hastissue:1" ; Times: 1
+	Query: "Acanthurus hepatus mappable:1" ; Times: 2
+	Query: "torpedinidae" ; Times: 1
+	Query: "specificepithet:irideus" ; Times: 1
+	Query: "Glossogobius giuris" ; Times: 1
+	Query: "metynnis maculatus" ; Times: 1
+	Query: "Acanthurus crestonis mappable:1" ; Times: 1
+	Query: "&#34;Micropterus dolomieu&#34; hastissue:1" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 2
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "Ctenochaetus striatus" ; Times: 3
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 1
+	Query: "Acanthurus gahhm mappable:1" ; Times: 2
+	Query: "specificepithet:cirratum genus:Ginglymostoma" ; Times: 2
+	Query: "Etrumeus teres" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 2
+	Query: "Acanthurus nigricans" ; Times: 5
+	Query: "country:&#34;England&#34;" ; Times: 1
+	Query: "Prionurus punctatus" ; Times: 1
+	Query: "hystrix" ; Times: 1
+	Query: "country:&#34;Brazil&#34; institutioncode:YPM" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 3
+	Query: "&#34;Esox niger&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "scientificname:&#34;artediellus uncinatus&#34;" ; Times: 1
+	Query: "Acipenseriformes" ; Times: 1
+	Query: "Acanthurus weberi mappable:1" ; Times: 1
+	Query: "Hepatus bahianus" ; Times: 1
+	Query: "stateprovince:&#34;Connecticut&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Macrognathus siamensis" ; Times: 2
+	Query: "Acanthurus crestonis" ; Times: 1
+	Query: "specificepithet:tanganyikaensis" ; Times: 2
+	Query: "Teuthis coeruleus" ; Times: 2
+	Query: "unicorn" ; Times: 2
+	Query: "Acanthurus mata" ; Times: 3
+	Query: "Carcharhinus longimanus" ; Times: 19
+	Query: "Pterois Volitans" ; Times: 2
+	Query: "19848" ; Times: 1
+	Query: "Acanthurus bleekeri" ; Times: 2
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "scientificname:&#34;myloplus rubripinnis&#34;" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "acipenseriformes" ; Times: 3
+	Query: "metynnis" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 5
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1892 download events in this period)
+Total number of records downloaded: 2604
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "passer" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Potamotrygon motoro" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+
+End of report.
