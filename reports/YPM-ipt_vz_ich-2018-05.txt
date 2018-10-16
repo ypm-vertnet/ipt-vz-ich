@@ -1,0 +1,159 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 832
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 111
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Morocco ; Times: 1
+	Country: China ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 3
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-24 ; Times: 17
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-04 ; Times: 24
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 11
+	Date: 2018-05-08 ; Times: 4
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 4
+	Date: 2018-05-30 ; Times: 6
+	Date: 2018-05-15 ; Times: 9
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-10 ; Times: 13
+	Date: 2018-05-12 ; Times: 4
+	Date: 2018-05-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "institutioncode:YPM clark" ; Times: 3
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "YPM 27634" ; Times: 1
+	Query: "typhlichthys" ; Times: 2
+	Query: "specificepithet:tetracanthus family:Cichlidae" ; Times: 2
+	Query: "specificepithet:coeruleopunctatus genus:Andinoacara" ; Times: 2
+	Query: "brama dussumieri" ; Times: 1
+	Query: "distance(location,geopoint(38.9879603599145,-92.7108775948784))&lt;29395" ; Times: 3
+	Query: "genus:Tomocichla family:Cichlidae" ; Times: 1
+	Query: "specificepithet:curviceps genus:Laetacara" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "specificepithet:insignis family:Cichlidae" ; Times: 1
+	Query: "genus:Amphilophus" ; Times: 2
+	Query: "labeo niloticus" ; Times: 1
+	Query: "specificepithet:mirificus family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "genus:Cleithracara" ; Times: 1
+	Query: "genus:Typhlichthys locality:Shelta" ; Times: 2
+	Query: "genus:Semicossyphus" ; Times: 1
+	Query: "Tomicodon petersii" ; Times: 3
+	Query: "Morone americana " ; Times: 1
+	Query: "genus:Tomocichla" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "genus:Hypsophrys" ; Times: 1
+	Query: "genus:Andinoacara" ; Times: 1
+	Query: "distance(location,geopoint(40.4417059145379,-90.00673221017))&lt;13766" ; Times: 1
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Pseudochromidae year &gt;= 1990 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:sieboldii genus:Tomocichla" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "vntype:specimen specificepithet:guttatus genus:epinephelus hastissue:1" ; Times: 1
+	Query: "Protopterus dolloi" ; Times: 1
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "genus:Archocentrus" ; Times: 1
+	Query: "gulf of california class:chondrichthyes year &lt;= 1960" ; Times: 1
+	Query: "genus:Bujurquina" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 3
+	Query: "Atherinidae year &gt;= 1995 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(43.0969710040001,-93.433419615))&lt;16732" ; Times: 2
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "genus:Rocio" ; Times: 1
+	Query: "bathycongrus varidens" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "genus:Herichthys" ; Times: 1
+	Query: "distance(location,geopoint(43.0969653373316,-93.4336533711819))&lt;29868" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "genus:Guianacara" ; Times: 3
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "rasbora kalochroma" ; Times: 2
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "&#34;labeo niloticus&#34;" ; Times: 1
+	Query: "YPM 20163" ; Times: 1
+	Query: "specificepithet:mirificus genus:Mesonauta family:Cichlidae" ; Times: 1
+	Query: "country:&#34;British Virgin Islands&#34;" ; Times: 1
+	Query: "&#34;charles island&#34;" ; Times: 1
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 2
+	Query: "fannin" ; Times: 1
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "mola" ; Times: 1
+	Query: "institutioncode:YPM hastypestatus:1" ; Times: 3
+	Query: "genus:Acaronia" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "specificepithet:octofasciata genus:Rocio" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "MBU" ; Times: 1
+	Query: "specificepithet:festae genus:Cichlasoma" ; Times: 1
+	Query: "specificepithet:sieboldii genus:Tomocichla family:Cichlidae" ; Times: 1
+	Query: "genus:Parachromis" ; Times: 1
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "specificepithet:meeki genus:Thorichthys" ; Times: 1
+	Query: "specificepithet:egregius genus:Mesonauta" ; Times: 1
+	Query: "genus:Neetroplus" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "Apogon retrosella" ; Times: 4
+	Query: "Atherinidae hastissue:1" ; Times: 2
+	Query: "collections n. w. gulf of mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1178 download events in this period)
+Total number of records downloaded: 690
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "gulf of california class:chondrichthyes year &lt;= 1960" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "elephant vntype:specimen (Uganda)" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.
