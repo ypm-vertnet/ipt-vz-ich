@@ -1,0 +1,198 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 274
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 52
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 4
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 4
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 14
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 7
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-12 ; Times: 13
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 5
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-17 ; Times: 5
+	Date: 2018-04-14 ; Times: 2
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Semicossyphus" ; Times: 1
+	Query: "26781" ; Times: 1
+	Query: "Siniperca chuatsi" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "chitala ornata" ; Times: 3
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "labeo horie" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "Telmatherinidae hastissue:1" ; Times: 1
+	Query: "Typhlops hastissue:1" ; Times: 1
+	Query: "Bedotia hastissue:1" ; Times: 2
+	Query: "clepsydra" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 3
+	Query: "Florida bass" ; Times: 2
+	Query: "salmo salar" ; Times: 3
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 1
+	Query: "opisthonema libertate" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;McCormick&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "petrocephalus" ; Times: 1
+	Query: "apleurogramma" ; Times: 2
+	Query: "Pseudochromidae hastissue:1" ; Times: 2
+	Query: "specificepithet:reticulatus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "beagle" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Sebastes hopkinsi" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Melanotaeniidae hastissue:1" ; Times: 1
+	Query: "Ambassidae hastissue:1" ; Times: 1
+	Query: "Parupeneus" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Pterygoplichthys gibbiceps" ; Times: 1
+	Query: "phycodurus eques" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "Acropora" ; Times: 1
+	Query: "Anguilla rostrata stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Bedotiidae hastissue:1" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Gobionellus" ; Times: 1
+	Query: "recordedby:G. S. marshall" ; Times: 1
+	Query: "Lates niloticus" ; Times: 4
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Ophichthus triserialis" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "dussumieri seychelles" ; Times: 1
+	Query: "Pterois" ; Times: 1
+	Query: "genus:Acaronia family:Cichlidae" ; Times: 1
+	Query: "Polymixia hastissue:1" ; Times: 3
+	Query: "Brook trout distribution" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Typhlops hastissue:1 year &gt;= 2012" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 2
+	Query: "Monopterus albus" ; Times: 2
+	Query: "Atherinidae hastissue:1" ; Times: 3
+	Query: "Typhlops hastissue:1 year &gt;= 2008" ; Times: 1
+	Query: "V. fulva" ; Times: 1
+	Query: "Channa argus" ; Times: 1
+	Query: "Hoplerythrinus" ; Times: 1
+	Query: "type family:gobiidae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1359 download events in this period)
+Total number of records downloaded: 752
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 8
+	Country: Brazil ; Times: 36
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-15 ; Times: 6
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-24 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "Hemiancistrus" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "opisthonema libertate" ; Times: 1
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Pterygoplichthys gibbiceps" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "Channa argus" ; Times: 1
+
+
+End of report.
