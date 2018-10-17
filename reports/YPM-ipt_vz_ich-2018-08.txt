@@ -1,0 +1,212 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 781
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 118
+	Country: Colombia ; Times: 17
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-31 ; Times: 6
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-09 ; Times: 17
+	Date: 2018-08-14 ; Times: 7
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-27 ; Times: 58
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-24 ; Times: 7
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-22 ; Times: 15
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-11 ; Times: 3
+	Date: 2018-08-01 ; Times: 15
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphyosemion" ; Times: 2
+	Query: "recordedby:Brian Hubbs year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Newberry 1855" ; Times: 1
+	Query: "immaculatus" ; Times: 1
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "Malapterurus tanganyikaensis" ; Times: 2
+	Query: "24493" ; Times: 1
+	Query: "genus:Pterois" ; Times: 1
+	Query: "otopharynx lithobates" ; Times: 1
+	Query: "specificepithet:leptorhynchus genus:apteronotus" ; Times: 1
+	Query: "Sufflamen chrysopterus mappable:1" ; Times: 1
+	Query: "sphoeroides kendalli" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Canthidermis sufflamen" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 4
+	Query: "Balistes maculatus" ; Times: 1
+	Query: "etheostoma nigripinne" ; Times: 2
+	Query: "specificepithet:erythrogaster genus:Chrosomus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:evides genus:Percina stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Bedotiidae" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "cetomimidae" ; Times: 3
+	Query: "Odonus niger" ; Times: 1
+	Query: "Canthidermis macrolepis mappable:1" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;TX&#34;" ; Times: 1
+	Query: "Cichlasoma portalegrense" ; Times: 1
+	Query: "Rhinecanthus assasi" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "26688" ; Times: 1
+	Query: "apteronotus leptorhynchus vntype:specimen" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "Balistes viridescens mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "osteochilus spilurus" ; Times: 1
+	Query: "V 1128" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "specificepithet:aurantiaca genus:Percina stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 3
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "ypm 855" ; Times: 2
+	Query: "Melichthys ringens mappable:1" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 2
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "Balistes maculatus mappable:1" ; Times: 1
+	Query: "Paralabrax auroguttatus" ; Times: 2
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "specificepithet:aurantiaca genus:Percina stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Leptodon" ; Times: 1
+	Query: "megalepis" ; Times: 1
+	Query: "Pterois antennata" ; Times: 16
+	Query: "Balistes viridescens" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 2
+	Query: "specificepithet:tragula genus:Upeneus" ; Times: 1
+	Query: "county:&#34;blount&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Hypleurochilus geminatus" ; Times: 2
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Pterois volitans" ; Times: 20
+	Query: "24949" ; Times: 1
+	Query: "V-1128" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "15862" ; Times: 1
+	Query: "Melichthys piceus mappable:1" ; Times: 1
+	Query: "10395" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Apteronotus leptorhynchus" ; Times: 1
+	Query: "Chesapeake Bay" ; Times: 1
+	Query: "stateprovince:&#34;AL&#34; continent:North America" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Melichthys ringens" ; Times: 2
+	Query: "27449" ; Times: 1
+	Query: "genus:Neopomacentrus" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "Balistes verres" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "Melichthys piceus" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "10760" ; Times: 2
+	Query: "Canthidermis macrolepis" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Balistes sufflamen" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "(etheostoma caeruleum)" ; Times: 1
+	Query: "specificepithet:cyanomos genus:Neopomacentrus" ; Times: 1
+	Query: "specificepithet:evides genus:Percina stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "Sufflamen albicaudatum" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;Texas&#34; year &lt;= 1955" ; Times: 1
+	Query: "Sufflamen chrysopterus" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1416 download events in this period)
+Total number of records downloaded: 313
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 10
+	Country: Peru ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-14 ; Times: 3
+	Date: 2018-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:evides genus:Percina stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "eugerres plumieri" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "specificepithet:aurantiaca genus:Percina stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 1
+	Query: "sphoeroides hastissue:1" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "Paralabrax auroguttatus" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Chrosomus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Anisotremus virginicus" ; Times: 1
+
+
+End of report.
