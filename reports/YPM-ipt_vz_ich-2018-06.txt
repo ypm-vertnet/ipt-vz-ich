@@ -1,0 +1,198 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 278
+Number of records retrieved in searches: 1317
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 35
+	Country: Unknown ; Times: 2
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 235
+	Country: China ; Times: 2
+	Country: Kuwait ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-13 ; Times: 60
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-14 ; Times: 5
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 6
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 9
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 4
+	Date: 2018-06-21 ; Times: 121
+	Date: 2018-06-20 ; Times: 43
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hepatus pawnee mappable:1" ; Times: 2
+	Query: "Acanthurus bleekeri mappable:1" ; Times: 4
+	Query: "crocodile" ; Times: 1
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "Ctenochaetus marginatus mappable:1" ; Times: 2
+	Query: "Oreochromis shiranus" ; Times: 1
+	Query: "Etheostoma douglasi" ; Times: 2
+	Query: "Acanthurus weberi" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "Acanthurus tennentii mappable:1" ; Times: 2
+	Query: "genus:chrosomus stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Naso unicornis" ; Times: 2
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "pterois volitans" ; Times: 9
+	Query: "specificepithet:microlepis family:Cichlidae" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Acanthurus tennentii" ; Times: 2
+	Query: "Hepatus pawnee" ; Times: 2
+	Query: "Hepatus bahianus mappable:1" ; Times: 2
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 5
+	Query: "Acanthurus auranticavus mappable:1" ; Times: 3
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 2
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Cephalopholis leopardus" ; Times: 2
+	Query: "Batis" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "James Bishop" ; Times: 2
+	Query: "James Hartman" ; Times: 1
+	Query: "Acanthurus auranticavus" ; Times: 3
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "Acanthurus hepatus" ; Times: 3
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "21294" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "Acanthurus japonicus" ; Times: 4
+	Query: "19696" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Teuthis hepatus" ; Times: 3
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "Ctenochaetus marginatus" ; Times: 2
+	Query: "Rhinichthys obtusus" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "Xesurus punctatus" ; Times: 1
+	Query: "Hepatus hepatus mappable:1" ; Times: 3
+	Query: "Pterois volitans" ; Times: 15
+	Query: "psychrolutes" ; Times: 1
+	Query: "Acanthurus hepatus mappable:1" ; Times: 3
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "Acanthurus crestonis mappable:1" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "specificepithet:vittatus family:Cichlidae" ; Times: 1
+	Query: "Acanthurus gahhm mappable:1" ; Times: 4
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Prionurus punctatus" ; Times: 2
+	Query: "mountain beaver" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "Menidia extensa" ; Times: 1
+	Query: "specificepithet:okaloosae year &gt;= 1080" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "Acanthurus weberi mappable:1" ; Times: 2
+	Query: "Hepatus bahianus" ; Times: 2
+	Query: "Acanthurus crestonis" ; Times: 1
+	Query: "clownfish" ; Times: 1
+	Query: "Teuthis coeruleus" ; Times: 4
+	Query: "unicorn" ; Times: 3
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "Acanthurus bleekeri" ; Times: 3
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "cyprinodontiformes order:Cyprinodontiformes hastissue:1" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1169 download events in this period)
+Total number of records downloaded: 387
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Panama ; Times: 2
+	Country: Ecuador ; Times: 3
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "chihuahua" ; Times: 2
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "lemming" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "elephant" ; Times: 1
+	Query: "clownfish" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "coyote" ; Times: 1
+
+
+End of report.
