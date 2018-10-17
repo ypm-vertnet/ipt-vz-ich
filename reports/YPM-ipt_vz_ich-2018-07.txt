@@ -1,0 +1,146 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 304
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 59
+	Country: China ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 9
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-05 ; Times: 2
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-07 ; Times: 3
+	Date: 2018-07-26 ; Times: 6
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-24 ; Times: 4
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-13 ; Times: 5
+	Date: 2018-07-12 ; Times: 5
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 6
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 2
+	Date: 2018-07-14 ; Times: 2
+	Date: 2018-07-31 ; Times: 9
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "14651" ; Times: 1
+	Query: "29884" ; Times: 1
+	Query: "Anguilla marmorata" ; Times: 1
+	Query: "18318" ; Times: 1
+	Query: "Pacific Sea snake" ; Times: 1
+	Query: "20163 YPM" ; Times: 1
+	Query: "008731 ypm" ; Times: 1
+	Query: "Casuarius casuarius form ypm" ; Times: 1
+	Query: "escolar" ; Times: 1
+	Query: "Maylandia zebra" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Cetorhinus" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "Oreochromis tanganicae" ; Times: 1
+	Query: "Pterois antennata" ; Times: 2
+	Query: "Oreochromis squamipinnis" ; Times: 1
+	Query: "Maylandia lombardoi" ; Times: 1
+	Query: "24679" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "19982" ; Times: 1
+	Query: "Saint bernard ypm" ; Times: 2
+	Query: "18420" ; Times: 1
+	Query: "genus:Pachycara hastissue:1" ; Times: 2
+	Query: "arapaima" ; Times: 2
+	Query: "15899" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "Latimeria" ; Times: 2
+	Query: "Pterois volitans" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "ypm" ; Times: 2
+	Query: "13625" ; Times: 1
+	Query: "22763" ; Times: 2
+	Query: "16129" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Casuarius casuarius alc. ypm" ; Times: 1
+	Query: "Casuarius casuarius 10% ypm" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "clupea harengus" ; Times: 1
+	Query: "recordedby:Grant year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "c 5862" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "22740" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 3
+	Query: "specificepithet:rerio genus:danio" ; Times: 1
+	Query: "YPM 3320" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "19663" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 1
+	Query: "stateprovince:&#34;GA&#34;" ; Times: 1
+	Query: "8731 ypm" ; Times: 1
+	Query: "Oreochromis leucostictus" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "22213" ; Times: 2
+	Query: "12781" ; Times: 2
+	Query: "cruentata" ; Times: 1
+	Query: "paucidens" ; Times: 1
+	Query: "genus:Percina county:&#34;Montgomery&#34; stateprovince:&#34;Arkansas&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 977 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 4
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "Pacific Sea snake" ; Times: 1
+	Query: "chromis vntype:specimen genus:chromis hastissue:1" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+
+
+End of report.
