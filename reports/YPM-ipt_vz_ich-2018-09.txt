@@ -1,0 +1,167 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 791
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 76
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 15
+	Country: China ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-26 ; Times: 8
+	Date: 2018-09-01 ; Times: 2
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 12
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-23 ; Times: 3
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 7
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 11
+	Date: 2018-09-19 ; Times: 6
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-27 ; Times: 5
+	Date: 2018-09-20 ; Times: 27
+	Date: 2018-09-21 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 3
+	Query: "Astronesthes oligoa" ; Times: 6
+	Query: "catalognumber:000444 institutioncode:YPM" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "locality:Lobos de afuera country:&#34;Peru&#34;" ; Times: 2
+	Query: "hoplerythrinus" ; Times: 1
+	Query: "sharks" ; Times: 2
+	Query: "Sarotherodon galilaeus" ; Times: 2
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "ypm 24992" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "anguilla rostrata susquehanna" ; Times: 1
+	Query: "Borostomias antarcticus" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 2
+	Query: "dasyatis" ; Times: 1
+	Query: "YPM 6326" ; Times: 1
+	Query: "stateprovince:&#34;TX&#34;" ; Times: 1
+	Query: "Bathophilus metallicus" ; Times: 1
+	Query: "Fundulus heteroclitus" ; Times: 2
+	Query: "YPM 6325" ; Times: 1
+	Query: "saccopharynx" ; Times: 2
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "Melanostomias tentaculatus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 1
+	Query: "sarotherodon galilaeus" ; Times: 3
+	Query: "Polyodon spathula" ; Times: 2
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "YPM 6327" ; Times: 1
+	Query: "Bathophilus vaillanti" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "eidolon" ; Times: 1
+	Query: "YPM 6323" ; Times: 1
+	Query: "YPM 6322" ; Times: 2
+	Query: "Melanostomias macrophotus" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 2
+	Query: "falkner" ; Times: 2
+	Query: "Hemigrammus ocellifer" ; Times: 1
+	Query: "YPM 6328" ; Times: 2
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 1
+	Query: "Doryrhamphus hastissue:1" ; Times: 1
+	Query: "Photonectes dinema" ; Times: 1
+	Query: "san fransisco" ; Times: 1
+	Query: "Hemichromis fasciatus" ; Times: 1
+	Query: "(B-16792 16792)" ; Times: 1
+	Query: "Astronesthes macropogon" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "Stomias longibarbatus" ; Times: 1
+	Query: "Striped Kelpfish" ; Times: 2
+	Query: "Macrourus berglax" ; Times: 1
+	Query: "Hypsoblennius gentilis" ; Times: 1
+	Query: "sarg" ; Times: 1
+	Query: "lythrypnus pulchellus" ; Times: 1
+	Query: "Grammatostomias flagellibarba" ; Times: 1
+	Query: "specificepithet:lowei" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "Alepocephalus productus" ; Times: 2
+	Query: "SFC 10" ; Times: 1
+	Query: "Clupea harengus" ; Times: 2
+	Query: "Sardinella aurita" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "monopterus" ; Times: 1
+	Query: "Photonectes mirabilis" ; Times: 1
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "Polymetme elongata" ; Times: 4
+	Query: "specificepithet:undulatus genus:menticirrhus" ; Times: 1
+	Query: "Doryrhamphus excisus hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;NC&#34;" ; Times: 1
+	Query: "Astronesthes leucopogon" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "John Nichols" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "leptodon" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "Polymetme thaeocoryla" ; Times: 1
+	Query: "Crevice Kelpfish" ; Times: 1
+	Query: "Grammatostomias dentatus" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "Hypsoblennius jenkinsi" ; Times: 1
+	Query: "sphoeroides nephelus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 846 download events in this period)
+Total number of records downloaded: 144
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "Grammatostomias dentatus" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "river otter" ; Times: 1
+
+
+End of report.
