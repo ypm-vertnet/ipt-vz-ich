@@ -1,0 +1,144 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 131
+Number of records retrieved in searches: 686
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 61
+	Country: United States ; Times: 51
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 20
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-14 ; Times: 7
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-30 ; Times: 37
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-12 ; Times: 4
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-29 ; Times: 9
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 5
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-23 ; Times: 15
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-24 ; Times: 10
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-08 ; Times: 5
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphyocharax" ; Times: 1
+	Query: "anoxypristis" ; Times: 2
+	Query: "Pholis gunnellus mappable:1" ; Times: 2
+	Query: "22239" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "Aidablennius sphynx mappable:1" ; Times: 4
+	Query: "22235" ; Times: 1
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "Hypsurus caryi" ; Times: 1
+	Query: "warreni" ; Times: 1
+	Query: "Coregonus clupeaformis" ; Times: 1
+	Query: "specificepithet:insignis institutioncode:YPM" ; Times: 1
+	Query: "Sardina pilchardus mappable:1" ; Times: 5
+	Query: "16565" ; Times: 1
+	Query: "Polyprion americanus mappable:1" ; Times: 2
+	Query: "Centroscymnus coelolepis mappable:1" ; Times: 4
+	Query: "pristis" ; Times: 2
+	Query: "ypm 024466" ; Times: 4
+	Query: "Pterois antennata" ; Times: 2
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "recordedby:a h wood" ; Times: 1
+	Query: "ypm 024467" ; Times: 2
+	Query: "Spicara smaris mappable:1" ; Times: 2
+	Query: "20371" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Amblyraja radiata mappable:1" ; Times: 4
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "genus:etheostoma county:&#34;mccreary&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "ypm 16889" ; Times: 1
+	Query: "10812" ; Times: 1
+	Query: "dogfish" ; Times: 1
+	Query: "YPM 014525" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 2
+	Query: "Spicara maena mappable:1" ; Times: 1
+	Query: "elacatinus horsti" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;texas&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:auritus genus:lepomis stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "Trachinotus ovatus mappable:1" ; Times: 1
+	Query: "Zapteryx" ; Times: 2
+	Query: "18466" ; Times: 1
+	Query: "specificepithet:auritus genus:lepomis stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "12623" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "ypm 15013" ; Times: 2
+	Query: "Fundulus jenkinsi" ; Times: 1
+	Query: "014525" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "26287" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 4
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "pterois volitans" ; Times: 2
+	Query: "Opisthonema oglinum" ; Times: 3
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "rhinobatos rhinobatos" ; Times: 3
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "21773" ; Times: 1
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 4
+	Query: "Anoxypristis cuspidatus" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+	Query: "Bathygobius lineatus" ; Times: 1
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "Polymetme elongata" ; Times: 2
+	Query: "Syngnathus typhle mappable:1" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "Belone belone mappable:1" ; Times: 1
+	Query: "Pristis" ; Times: 6
+	Query: "15059" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 962 download events in this period)
+Total number of records downloaded: 126
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Fundulus jenkinsi" ; Times: 2
+	Query: "specificepithet:frenatus" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
