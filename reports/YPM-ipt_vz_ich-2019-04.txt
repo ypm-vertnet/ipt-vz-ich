@@ -1,0 +1,181 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 791
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 67
+	Country: Italy ; Times: 2
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 7
+	Country: El Salvador ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Switzerland ; Times: 9
+	Country: Vietnam ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Norway ; Times: 30
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 7
+	Date: 2019-04-19 ; Times: 46
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-11 ; Times: 11
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-16 ; Times: 5
+	Date: 2019-04-15 ; Times: 8
+	Date: 2019-04-14 ; Times: 4
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-02 ; Times: 30
+	Date: 2019-04-03 ; Times: 8
+	Date: 2019-04-22 ; Times: 4
+	Date: 2019-04-05 ; Times: 6
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-01 ; Times: 4
+	Date: 2019-04-24 ; Times: 7
+	Date: 2019-04-25 ; Times: 7
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 15
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Amblyraja radiata mappable:1" ; Times: 2
+	Query: "Synodontis afrofischeri" ; Times: 1
+	Query: "Stathmonotus hemphillii mappable:1" ; Times: 1
+	Query: "recordedby:R. I. Giles" ; Times: 1
+	Query: "ypm ich 025652" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 4
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "Lates mariae" ; Times: 3
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "catalognumber:010401" ; Times: 2
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 2
+	Query: "SCARUS rubroviolaceus" ; Times: 1
+	Query: "YPM 002925" ; Times: 1
+	Query: "Pelvicachromis pulcher" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 2
+	Query: "SCARUS ghobban" ; Times: 1
+	Query: "oreochromis niloticus" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "Coralliozetus boehlkei mappable:1" ; Times: 2
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Cetengraulis edentulus mappable:1" ; Times: 2
+	Query: "atractosteus tristoechus" ; Times: 2
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "23672" ; Times: 2
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 7
+	Query: "stateprovince:&#34;TX&#34;" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "frogfish" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "genus:Agonostomus" ; Times: 2
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Emblemaria pandionis" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 2
+	Query: "catalognumber:002493" ; Times: 1
+	Query: "Otocinclus affinis" ; Times: 1
+	Query: "Emblemaria hypacanthus" ; Times: 2
+	Query: "Prionotus punctatus mappable:1" ; Times: 2
+	Query: "011047" ; Times: 1
+	Query: "Pygocentrus piraya mappable:1" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 2
+	Query: "Neoclinus uninotatus mappable:1" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "Anchoa parva mappable:1" ; Times: 2
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 4
+	Query: "optivus elongatus" ; Times: 4
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "Labeotropheus trewavasae" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "Microctenopoma ansorgii" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "squalus acanthias" ; Times: 2
+	Query: "Neoclinus uninotatus" ; Times: 1
+	Query: "Emblemaria pandionis mappable:1" ; Times: 1
+	Query: "Clarias gariepinus mappable:1" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Hoplosternum littorale mappable:1" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "specificepithet:Monticola stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "specificepithet:radiata genus:amblyraja" ; Times: 1
+	Query: "Nyc institutioncode:YPM" ; Times: 2
+	Query: "Micromesistius poutassou mappable:1" ; Times: 5
+	Query: "alpheus" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "Trichopsis vittata" ; Times: 2
+	Query: "(Chatfield)" ; Times: 1
+	Query: "Gymnotus carapo mappable:1" ; Times: 1
+	Query: "Coralliozetus boehlkei" ; Times: 2
+	Query: "ceratias" ; Times: 2
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "Amblyraja radiata" ; Times: 6
+	Query: "Anarhichas lupus mappable:1" ; Times: 9
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "scarus ghobban" ; Times: 3
+	Query: "catalognumber:005759" ; Times: 2
+	Query: "Stathmonotus hemphillii" ; Times: 1
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;NC&#34;" ; Times: 1
+	Query: "catalognumber:008597" ; Times: 2
+	Query: "21264" ; Times: 2
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "specificepithet:radiata genus:amblyraja basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "specificepithet:chienense genus:Etheostoma" ; Times: 2
+	Query: "YPM 004058" ; Times: 1
+	Query: "025583" ; Times: 1
+	Query: "catalognumber:010410" ; Times: 2
+	Query: "Emblemaria hypacanthus mappable:1" ; Times: 2
+	Query: "Agonostomus monticola" ; Times: 2
+	Query: "Conodon nobilis mappable:1" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1263 download events in this period)
+Total number of records downloaded: 40
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:parva genus:Lucania stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:chienense genus:Etheostoma" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+
+
+End of report.
