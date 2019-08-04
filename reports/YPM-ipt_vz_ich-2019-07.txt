@@ -1,0 +1,213 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 545
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 143
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Venezuela ; Times: 5
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-08 ; Times: 97
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-11 ; Times: 7
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 5
+	Date: 2019-07-15 ; Times: 7
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-23 ; Times: 4
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 4
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 4
+	Date: 2019-07-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Acanthocobitis" ; Times: 1
+	Query: "genus:Uaru specificepithet:amphiacanthoides" ; Times: 1
+	Query: "genus:Gonostoma specificepithet:atlanticum" ; Times: 1
+	Query: "genus:Poromitra specificepithet:capito" ; Times: 1
+	Query: "Amphelikturus dendriticus" ; Times: 1
+	Query: "genus:Scopelarchus specificepithet:guentheri" ; Times: 1
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "genus:Acantopsis specificepithet:choirorhynchos" ; Times: 1
+	Query: "Sardina pilchardus mappable:1" ; Times: 1
+	Query: "genus:Amblyopsis specificepithet:spelaea" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "specificepithet:variatum genus:Etheostoma stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "genus:Thoburnia specificepithet:rhothoeca" ; Times: 1
+	Query: "genus:Halargyreus" ; Times: 1
+	Query: "YPM 2255" ; Times: 1
+	Query: "Zonata zonata" ; Times: 2
+	Query: "genus:Grammatostomias specificepithet:dentatus" ; Times: 1
+	Query: "catalognumber:017514 institutioncode:YPM" ; Times: 1
+	Query: "genus:Mikrogeophagus specificepithet:ramirezi" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "genus:Parasphaerichthys specificepithet:ocellatus" ; Times: 1
+	Query: "ypm 2021" ; Times: 1
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "genus:Sardina specificepithet:pilchardus" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:horsti" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 2
+	Query: "genus:Scytalina specificepithet:cerdale" ; Times: 1
+	Query: "YPM 13701" ; Times: 1
+	Query: "genus:Diplotaxodon" ; Times: 1
+	Query: "acipenser" ; Times: 1
+	Query: "genus:Etmopterus specificepithet:bullisi" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "genus:Coreoperca specificepithet:herzi" ; Times: 1
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 6
+	Query: "YPM-12004" ; Times: 1
+	Query: "genus:Cottus specificepithet:hypselurus" ; Times: 1
+	Query: "YPM 000226" ; Times: 1
+	Query: "cichlid" ; Times: 2
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antennatus" ; Times: 1
+	Query: "Cichla temensis" ; Times: 1
+	Query: "genus:Archocentrus specificepithet:centrarchus" ; Times: 1
+	Query: "genus:Aristostomias specificepithet:grimaldii" ; Times: 1
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:steindachneri" ; Times: 1
+	Query: "genus:Ptychochromis specificepithet:oligacanthus" ; Times: 1
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:brevis" ; Times: 1
+	Query: "genus:Taaningichthys specificepithet:bathyphilus" ; Times: 1
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "genus:Aidablennius specificepithet:sphynx" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "genus:Benthochromis specificepithet:tricoti" ; Times: 1
+	Query: "genus:Ataxolepis specificepithet:apus" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "Bathyraja" ; Times: 1
+	Query: "stateprovince:&#34;TX&#34;" ; Times: 1
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "genus:Lepomis specificepithet:marginatus" ; Times: 1
+	Query: "genus:Mesonauta specificepithet:insignis" ; Times: 1
+	Query: "genus:Otopharynx specificepithet:brooksi" ; Times: 1
+	Query: "genus:Ulvaria specificepithet:subbifurcata" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "genus:Amia" ; Times: 1
+	Query: "genus:Hemitaeniochromis" ; Times: 1
+	Query: "genus:Tropheus" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "genus:Otopharynx specificepithet:lithobates" ; Times: 1
+	Query: "pelecanoides hastissue:1" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:oceanops" ; Times: 1
+	Query: "Microphis" ; Times: 5
+	Query: "genus:Geophagus specificepithet:crassilabris" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Clepticus" ; Times: 1
+	Query: "genus:Anarchopterus specificepithet:criniger" ; Times: 1
+	Query: "Opistognathus" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "catalognumber:017161 institutioncode:YPM" ; Times: 2
+	Query: "genus:Ichthyomyzon specificepithet:bdellium" ; Times: 1
+	Query: "catalognumber:017146 institutioncode:YPM" ; Times: 2
+	Query: "Aspidontus" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "genus:Phoxocampus specificepithet:belcheri" ; Times: 1
+	Query: "genus:Paratilapia specificepithet:polleni" ; Times: 1
+	Query: "opistognathus" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "genus:Cunningtonia specificepithet:longiventralis" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "genus:Pseudolithoxus specificepithet:tigris" ; Times: 1
+	Query: "genus:Benthodesmus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Cleithracara specificepithet:maronii" ; Times: 1
+	Query: "genus:Pseudoscopelus" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "genus:Trigonostigma specificepithet:heteromorpha" ; Times: 1
+	Query: "genus:Enchelyurus specificepithet:flavipes" ; Times: 1
+	Query: "genus:Cheilopogon specificepithet:melanurus" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "A947" ; Times: 1
+	Query: "genus:Simenchelys specificepithet:parasitica" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "gemmifer" ; Times: 1
+	Query: "genus:Anguilla specificepithet:rostrata" ; Times: 1
+	Query: "genus:Melanostomias specificepithet:valdiviae" ; Times: 1
+	Query: "genus:Coryphoblennius specificepithet:galerita" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "genus:Bedotia specificepithet:madagascariensis" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "county:&#34;Lewis&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "erimyzon claviformes" ; Times: 1
+	Query: "Caranx caballus" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "pterois antennata" ; Times: 1
+	Query: "Percina rex mappable:1" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "Zonata year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "Pangio kuhlii" ; Times: 1
+	Query: "genus:Seleniolycus specificepithet:laevifasciatus" ; Times: 1
+	Query: "genus:Anchovia specificepithet:macrolepidota" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Manonichthys specificepithet:splendens" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "genus:Reganochromis specificepithet:calliurus" ; Times: 1
+	Query: "genus:Parahypsos specificepithet:piersoni" ; Times: 1
+	Query: "genus:Blennius specificepithet:ocellaris" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "genus:Dolicholagus" ; Times: 1
+	Query: "genus:Neobythites specificepithet:gilli" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 985 download events in this period)
+Total number of records downloaded: 71
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "galapagos" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+
+
+End of report.
