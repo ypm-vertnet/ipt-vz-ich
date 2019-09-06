@@ -1,0 +1,256 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 246
+Number of records retrieved in searches: 1118
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 43
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 117
+	Country: United States ; Times: 39
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Venezuela ; Times: 22
+	Country: Ecuador ; Times: 2
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-06 ; Times: 4
+	Date: 2019-08-08 ; Times: 94
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-03 ; Times: 2
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 52
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-07 ; Times: 16
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-25 ; Times: 23
+	Date: 2019-08-22 ; Times: 5
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 4
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 9
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-19 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Haemulon album mappable:1" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Bathophilus brevis" ; Times: 1
+	Query: "Rhizoprionodon lalandii" ; Times: 1
+	Query: "Haemulon carbonarium mappable:1" ; Times: 1
+	Query: "Amblycirrhitus pinos mappable:1" ; Times: 2
+	Query: "Gnathonemus" ; Times: 6
+	Query: "Hemibagrus nemurus" ; Times: 1
+	Query: "hortulanus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 3
+	Query: "Pristis pECTINATA" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "Hyphessobrycon eques" ; Times: 1
+	Query: "genus:Neetroplus specificepithet:nematopus" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "Paracheirodon innesi" ; Times: 1
+	Query: "Pimelodus pictus" ; Times: 1
+	Query: "Elacatinus horsti mappable:1" ; Times: 1
+	Query: "DASYATIS centroura" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 7
+	Query: "Block Island class:actinopterygii stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Tylochromis polylepis" ; Times: 1
+	Query: "astronotus hastissue:1" ; Times: 1
+	Query: "Gymnotus carapo" ; Times: 1
+	Query: "locality:*wells stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 2
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 2
+	Query: "Carcharhinus perezii mappable:1" ; Times: 2
+	Query: "Etmopterus gracilispinis" ; Times: 2
+	Query: "genus:Trachinocephalus specificepithet:myops" ; Times: 1
+	Query: "Corydoras schwartzi" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 1
+	Query: "Apogon planifrons mappable:1" ; Times: 2
+	Query: "echidna brain" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 2
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Chalceus macrolepidotus" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "Eigenmannia virescens" ; Times: 1
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 1
+	Query: "Mustelus canis" ; Times: 1
+	Query: "stateprovince:&#34;TX&#34;" ; Times: 1
+	Query: "Pseudolithoxus tigris" ; Times: 1
+	Query: "Uganda 1921" ; Times: 1
+	Query: "Kryptopterus bicirrhis" ; Times: 1
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "Prognathodes aculeatus mappable:1" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 1
+	Query: "genus:Erimonax" ; Times: 1
+	Query: "echidna AND brain" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 1
+	Query: "Polyipnus laternatus" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "genus:Aphredoderus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Enneacanthus chaetodon" ; Times: 1
+	Query: "Myloplus rubripinnis" ; Times: 1
+	Query: "Hemigrammus bleheri" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 1
+	Query: "Coryphopterus personatus mappable:1" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 2
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 1
+	Query: "Pseudoplatystoma tigrinum" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 2
+	Query: "Hypselecara temporalis" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 6
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "Bryconamericus scleroparius" ; Times: 1
+	Query: "NOTROPIS OZARCANUS" ; Times: 1
+	Query: "Callionymus bairdi mappable:1" ; Times: 2
+	Query: "Gephyrocharax atracaudatus" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 2
+	Query: "Makaira nigricans" ; Times: 1
+	Query: "Dives dives" ; Times: 1
+	Query: "Rocio octofasciata" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 1
+	Query: "Brachyplatystoma vaillantii" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 2
+	Query: "genus:Nothonotus specificepithet:maculatus" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "7159" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 1
+	Query: "T. Alvarez" ; Times: 1
+	Query: "Pimelodus ornatus" ; Times: 1
+	Query: "PERCINA NASUTA" ; Times: 1
+	Query: "Chaetodon capistratus mappable:1" ; Times: 2
+	Query: "Pterois volitans" ; Times: 3
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 2
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 2
+	Query: "Halichoeres garnoti mappable:1" ; Times: 1
+	Query: "Apogon townsendi mappable:1" ; Times: 2
+	Query: "Tracheophyta" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 6
+	Query: "Narcine bRASILIENSIS" ; Times: 2
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 2
+	Query: "Apteronotus albifrons" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "YPM ICH 006259" ; Times: 1
+	Query: "Callichthys callichthys" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 1
+	Query: "Halichoeres pictus mappable:1" ; Times: 1
+	Query: "28575" ; Times: 3
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "Neoniphon marianus mappable:1" ; Times: 1
+	Query: "Sargocentron vexillarium mappable:1" ; Times: 1
+	Query: "daniel medina" ; Times: 1
+	Query: "Emblemaria pandionis mappable:1" ; Times: 2
+	Query: "Ambloplites constellatus" ; Times: 1
+	Query: "Apogon lachneri mappable:1" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "Clepticus parrae mappable:1" ; Times: 1
+	Query: "Urobatis jamaicensis" ; Times: 1
+	Query: "Ameiurus brunneus" ; Times: 1
+	Query: "genus:Microgeophagus specificepithet:ramirezi" ; Times: 1
+	Query: "Chilomycterus antennatus mappable:1" ; Times: 2
+	Query: "Sorubim lima" ; Times: 1
+	Query: "Gramma loreto mappable:1" ; Times: 1
+	Query: "Apogon binotatus mappable:1" ; Times: 2
+	Query: "Mystus cavasius" ; Times: 1
+	Query: "Coryphopterus eidolon mappable:1" ; Times: 1
+	Query: "Pygocentrus piraya" ; Times: 1
+	Query: "Apogon maculatus mappable:1" ; Times: 2
+	Query: "nigriventer" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "Sargocentron coruscum mappable:1" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "butterfly" ; Times: 2
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "Leucoraja garmani" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 2
+	Query: "Melichthys niger mappable:1" ; Times: 2
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Lactophrys bicaudalis" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Bodianus rufus mappable:1" ; Times: 1
+	Query: "Halichoeres radiatus mappable:1" ; Times: 1
+	Query: "UroLOPHUS jamaicensis" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Sufflamen verres" ; Times: 2
+	Query: "scleropages" ; Times: 1
+	Query: "Tetragonopterus chalceus" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1034 download events in this period)
+Total number of records downloaded: 387
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mulloidichthys martinicus" ; Times: 2
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "typhlops" ; Times: 1
+	Query: "Uganda 1921" ; Times: 1
+
+
+End of report.
