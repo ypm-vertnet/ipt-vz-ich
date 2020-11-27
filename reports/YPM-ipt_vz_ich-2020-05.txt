@@ -1,0 +1,115 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 231
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 56
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 13
+	Date: 2020-05-27 ; Times: 4
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-22 ; Times: 6
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-19 ; Times: 6
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 21
+	Date: 2020-05-12 ; Times: 4
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "V-1132" ; Times: 3
+	Query: "24183" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "county:&#34;Panama&#34;" ; Times: 2
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "werne" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "gyrinomimus myersi" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "haemulon plumieri" ; Times: 4
+	Query: "Bathysphyraenops simplex" ; Times: 3
+	Query: "Gymnothorax meleagris" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "Gymnomuraena zebra" ; Times: 1
+	Query: "Gymnothorax buroensis" ; Times: 2
+	Query: "Muraena clepsydra" ; Times: 2
+	Query: "Melamphaes suborbitalis" ; Times: 5
+	Query: "Uropterygius macrocephalus" ; Times: 2
+	Query: "28960" ; Times: 1
+	Query: "Muraena lentiginosa" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Gymnothorax flavimarginatus" ; Times: 2
+	Query: "stateprovince:&#34;TN&#34;" ; Times: 1
+	Query: "Scuticaria tigrina" ; Times: 2
+	Query: "Gymnothorax undulatus" ; Times: 1
+	Query: "Gymnothorax verrilli" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "gymnothorax buroensis" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Gymnothorax pictus" ; Times: 1
+	Query: "Solenostomus" ; Times: 2
+	Query: "Hyporhamphus gilli" ; Times: 1
+	Query: "Gymnothorax javanicus" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Xanthichthys ringens mappable:1" ; Times: 1
+	Query: "gymnothorax porphyreus" ; Times: 2
+	Query: "ypm 24748" ; Times: 1
+	Query: "ypm 24749" ; Times: 2
+	Query: "muraena argus" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "DUMERILI" ; Times: 1
+	Query: "Canthidermis macrolepis mappable:1" ; Times: 1
+	Query: "30246" ; Times: 1
+	Query: "hemichordata" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1106 download events in this period)
+Total number of records downloaded: 215
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Panama ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "county:&#34;Panama&#34;" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+
+
+End of report.
