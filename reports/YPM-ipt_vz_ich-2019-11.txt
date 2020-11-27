@@ -1,0 +1,136 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 534
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 79
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 5
+	Country: Brazil ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 13
+	Date: 2019-11-22 ; Times: 20
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-30 ; Times: 2
+	Date: 2019-11-06 ; Times: 12
+	Date: 2019-11-07 ; Times: 3
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-10 ; Times: 7
+	Date: 2019-11-13 ; Times: 3
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-15 ; Times: 7
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-26 ; Times: 10
+	Date: 2019-11-24 ; Times: 12
+	Date: 2019-11-11 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "astronotus hastissue:1" ; Times: 1
+	Query: "Doryrhamphus melanopleura" ; Times: 2
+	Query: "genus:gasterosteus recordedby:Bell" ; Times: 1
+	Query: "diodon hystrix linnaeus" ; Times: 2
+	Query: "institutioncode:YPM hastissue:1" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "16053" ; Times: 1
+	Query: "Engraulicypris argenteus" ; Times: 1
+	Query: "microspathodon chrysurus" ; Times: 2
+	Query: "echidna zebra" ; Times: 4
+	Query: "Thunnus alalunga" ; Times: 2
+	Query: "Alopias vulpinus vntype:specimen" ; Times: 1
+	Query: "Lophiodes caulinaris" ; Times: 2
+	Query: "Cetorhinus maximus vntype:specimen" ; Times: 2
+	Query: "narcine entemedor" ; Times: 2
+	Query: "Cyprinus carpio vntype:specimen hastissue:1" ; Times: 1
+	Query: "cetostoma" ; Times: 1
+	Query: "heterodontus" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "scomber japonicus" ; Times: 2
+	Query: "Aluterus scriptus" ; Times: 3
+	Query: "Oncorhynchus mykiss vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "etmopterus" ; Times: 9
+	Query: "Caranx sexfasciatus" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "phractolaemus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Lythrurus lirus" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 3
+	Query: "geophagus hastissue:1" ; Times: 2
+	Query: "Omosudidae" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "Clupea harengus vntype:specimen hastissue:1" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "Acarichthys" ; Times: 1
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Sparisoma chrysopterum" ; Times: 2
+	Query: "aluterus scriptus" ; Times: 1
+	Query: "Opsaridium microcephalum" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "atlantic salmon" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 7
+	Query: "Heterodontus francisci" ; Times: 3
+	Query: "unicorn" ; Times: 1
+	Query: "stenodus" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;florida&#34; year &gt;= 200 year &lt;= 2019" ; Times: 1
+	Query: "locality:new hanover" ; Times: 1
+	Query: "Salmo salar" ; Times: 4
+	Query: "Cardinalis cardinalis KU year &gt;1990" ; Times: 1
+	Query: "arius seemanni" ; Times: 2
+	Query: "Cypselurus callopterus" ; Times: 1
+	Query: "solea solea" ; Times: 1
+	Query: "Brotula multibarbata" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 3
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "Acapoeta tanganicae" ; Times: 2
+	Query: "Aspius aspius" ; Times: 1
+	Query: "bleheri hastissue:1" ; Times: 1
+	Query: "moore genus:gasterosteus" ; Times: 1
+	Query: "Barbus altianalis" ; Times: 2
+	Query: "18905" ; Times: 2
+	Query: "Pristis zijsron vntype:specimen" ; Times: 2
+	Query: "ictaluridae hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1367 download events in this period)
+Total number of records downloaded: 36
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "etmopterus" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
