@@ -1,0 +1,173 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 321
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Cuba ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 82
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 13
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 20
+	Date: 2020-03-18 ; Times: 10
+	Date: 2020-03-19 ; Times: 13
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-15 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 4
+	Date: 2020-03-17 ; Times: 4
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-25 ; Times: 7
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 21
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-06 ; Times: 5
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-03 ; Times: 4
+	Date: 2020-03-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Scarus coelestinus mappable:1" ; Times: 1
+	Query: "chitala ornata" ; Times: 2
+	Query: "Atherinomorus duodecimalis mappable:1" ; Times: 3
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "13023 institutioncode:YPM" ; Times: 1
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "county:&#34;Cocke&#34;" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "Scarus ghobban mappable:1" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "Chlorurus sordidus mappable:1" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "Scarus rubroviolaceus mappable:1" ; Times: 1
+	Query: "&#34;Van Name&#34;" ; Times: 1
+	Query: "Chaetodon capistratus" ; Times: 1
+	Query: "Scarus scaber mappable:1" ; Times: 1
+	Query: "Etmopterus gracilispinis" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "Gambusia punctata" ; Times: 1
+	Query: "Gambusia rhizophorae" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "Hipposcarus harid mappable:1" ; Times: 1
+	Query: "mola mola" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "county:&#34;Atkinson&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 5
+	Query: "Calotomus spinidens mappable:1" ; Times: 3
+	Query: "Protomyctophum choriodon" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "Scarus coeruleus mappable:1" ; Times: 2
+	Query: "Scarus psittacus mappable:1" ; Times: 1
+	Query: "V 1132" ; Times: 1
+	Query: "Siganus rivulatus mappable:1" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "chilodus" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "Bedotia" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Uropterygius micropterus" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "Sardinella maderensis" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "Hypoatherina harringtonensis mappable:1" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "Scarus ferrugineus mappable:1" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "orectolobidae" ; Times: 1
+	Query: "Atherinomorus pinguis mappable:1" ; Times: 3
+	Query: "anguilla marmorata" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Etheostoma ditrema" ; Times: 3
+	Query: "Atherinomorus stipes mappable:1" ; Times: 2
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Calotomus carolinus mappable:1" ; Times: 3
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "amphilophus rostratus" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "singapore vertebrate" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 1
+	Query: "Hypoatherina temminckii mappable:1" ; Times: 2
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "13715" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "Sarda chiliensis" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "heterodontiformes" ; Times: 1
+	Query: "Cetoscarus bicolor mappable:1" ; Times: 1
+	Query: "Auxis rochei" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "Atherinomorus forskalii mappable:1" ; Times: 3
+	Query: "B-10365" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "harengula humeralis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 853 download events in this period)
+Total number of records downloaded: 36
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Cuba ; Times: 2
+	Country: South Africa ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia punctata" ; Times: 1
+	Query: "Taaningichthys bathyphilus" ; Times: 2
+	Query: "Protomyctophum choriodon" ; Times: 1
+	Query: "Gambusia rhizophorae" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Electrona antarctica" ; Times: 2
+	Query: "chilodus" ; Times: 1
+	Query: "specificepithet:antarctica genus:Electrona" ; Times: 1
+
+
+End of report.
