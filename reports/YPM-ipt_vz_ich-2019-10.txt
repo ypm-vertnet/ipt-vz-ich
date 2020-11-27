@@ -1,0 +1,263 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 334
+Number of records retrieved in searches: 1290
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 81
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 11
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 10
+	Country: Hungary ; Times: 2
+	Country: New Zealand ; Times: 177
+	Country: Cyprus ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 16
+	Date: 2019-10-21 ; Times: 29
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 94
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-07 ; Times: 12
+	Date: 2019-10-23 ; Times: 97
+	Date: 2019-10-22 ; Times: 5
+	Date: 2019-10-29 ; Times: 6
+	Date: 2019-10-19 ; Times: 6
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 15
+	Date: 2019-10-10 ; Times: 5
+	Date: 2019-10-30 ; Times: 7
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-14 ; Times: 9
+	Date: 2019-10-15 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Bathyraja griseocauda" ; Times: 2
+	Query: "Raja texana" ; Times: 2
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "Carcharhinus perezii" ; Times: 2
+	Query: "Apristurus profundorum" ; Times: 2
+	Query: "Scobinichthys granulatus mappable:1" ; Times: 2
+	Query: "Rhizoprionodon lalandii" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "Etmopterus princeps" ; Times: 2
+	Query: "Malacoraja senta" ; Times: 2
+	Query: "Cantherhines pardalis mappable:1" ; Times: 2
+	Query: "notothenioidei" ; Times: 2
+	Query: "Urotrygon munda" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "Dipturus olseni" ; Times: 2
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "catalognumber:014859 institutioncode:YPM" ; Times: 3
+	Query: "Amblyraja jenseni" ; Times: 1
+	Query: "Rhinoptera steindachneri" ; Times: 2
+	Query: "catalognumber:016897 institutioncode:YPM" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 3
+	Query: "ypm 832" ; Times: 1
+	Query: "Leucoraja ocellata" ; Times: 2
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "Narcine vermiculatus" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "Mola mola" ; Times: 1
+	Query: "Orectolobus maculatus" ; Times: 2
+	Query: "percina nasuta" ; Times: 2
+	Query: "Etmopterus gracilispinis" ; Times: 1
+	Query: "locality:New Hanover" ; Times: 2
+	Query: "Lucania parva mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Monacanthus tuckeri mappable:1" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "catalognumber:024628 institutioncode:YPM" ; Times: 1
+	Query: "Diplobatis ommata" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Raja undulata" ; Times: 2
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "temensis Cichla" ; Times: 2
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Atelomycterus macleayi" ; Times: 1
+	Query: "Menidia beryllina mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "Basking shark" ; Times: 1
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Trygonoptera testacea" ; Times: 2
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "catalognumber:014797 institutioncode:YPM" ; Times: 2
+	Query: "Cyprinodon variegatus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "acropora" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Chimaera phantasma" ; Times: 2
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "fundulus grandis" ; Times: 1
+	Query: "Etheostoma rafinesquei" ; Times: 1
+	Query: "Carcharhinus sorrah" ; Times: 2
+	Query: "catalognumber:005215 institutioncode:YPM" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Etmopterus bullisi" ; Times: 1
+	Query: "Orectolobus japonicus" ; Times: 2
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Apristurus manis" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "Bathyraja" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "Zapteryx xyster" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 2
+	Query: "Torpedo marmorata" ; Times: 2
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Simenchelys parasitica" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "Mustelus californicus" ; Times: 2
+	Query: "locality:Saltville" ; Times: 1
+	Query: "Menidia menidia mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 10
+	Query: "Pervagor janthinosoma mappable:1" ; Times: 2
+	Query: "Urobatis maculatus" ; Times: 2
+	Query: "Apristurus herklotsi" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "Dipturus batis" ; Times: 2
+	Query: "Dasyatis brevis" ; Times: 2
+	Query: "&#34;Aristostomias tittmanni&#34;" ; Times: 2
+	Query: "Myoxocephalus quadricornis" ; Times: 1
+	Query: "Paramonacanthus choirocephalus mappable:1" ; Times: 2
+	Query: "Dasyatis hastata" ; Times: 1
+	Query: "Cantherhines sandwichiensis mappable:1" ; Times: 2
+	Query: "labroides dimidiatus" ; Times: 1
+	Query: "Oreochromis sp" ; Times: 1
+	Query: "Leptostomias" ; Times: 1
+	Query: "Chiloscyllium indicum" ; Times: 2
+	Query: "Leptostomias gladiator" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 2
+	Query: "Aptychotrema vincentiana" ; Times: 2
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "Dipturus gigas" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "Hemiscyllium strahani" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Raja clavata" ; Times: 2
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "recordedby:NMNH" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "catalognumber:004564 institutioncode:YPM" ; Times: 2
+	Query: "Zalieutes" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "Chiloscyllium plagiosum" ; Times: 2
+	Query: "menidia audens" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "vinciguerra" ; Times: 4
+	Query: "Scyliorhinus canicula" ; Times: 2
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Acanthaluteres brownii mappable:1" ; Times: 2
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Bathyraja maccaini" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "Urobatis jamaicensis" ; Times: 2
+	Query: "catalognumber:009655 institutioncode:YPM" ; Times: 1
+	Query: "Pervagor melanocephalus mappable:1" ; Times: 2
+	Query: "asper Cottus" ; Times: 4
+	Query: "Pristis zijsron" ; Times: 2
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Rhinochimaera atlantica" ; Times: 2
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "catalognumber:016896 institutioncode:YPM" ; Times: 2
+	Query: "Chimaera monstrosa" ; Times: 2
+	Query: "Centrophorus moluccensis" ; Times: 2
+	Query: "Coelacanthiformes" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Diplophos" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Hydrolagus affinis" ; Times: 2
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "vntype:specimen (Phractolaemus)" ; Times: 1
+	Query: "Leucoraja garmani" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Centroscyllium fabricii" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "diplophos" ; Times: 3
+	Query: "Alopias" ; Times: 1
+	Query: "Hemigaleus microstoma" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "&#34;Cheilopogon cyanopterus&#34;" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Parupeneus forsskali mappable:1" ; Times: 4
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 3
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "melanostomias melanops" ; Times: 1
+	Query: "Rhynchobatus djiddensis" ; Times: 2
+	Query: "Narcine entemedor" ; Times: 2
+	Query: "Mobula thurstoni" ; Times: 2
+	Query: "Dipturus laevis" ; Times: 2
+	Query: "Urotrygon aspidura" ; Times: 2
+	Query: "Carcharhinus albimarginatus" ; Times: 2
+	Query: "Leucoraja erinacea" ; Times: 2
+	Query: "Bathyraja spinicauda" ; Times: 2
+	Query: "Amblyraja georgiana" ; Times: 2
+	Query: "catalognumber:014985 institutioncode:YPM" ; Times: 6
+	Query: "Sutorectus tentaculatus" ; Times: 2
+	Query: "Zapteryx exasperata" ; Times: 2
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1308 download events in this period)
+Total number of records downloaded: 82
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "continent:australia" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+
+
+End of report.
