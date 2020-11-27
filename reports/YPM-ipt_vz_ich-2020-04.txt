@@ -1,0 +1,429 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2148
+Number of records retrieved in searches: 14677
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 158
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 16
+	Country: Lithuania ; Times: 1
+	Country: United Kingdom ; Times: 1915
+	Country: Ireland ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 557
+	Date: 2020-04-05 ; Times: 17
+	Date: 2020-04-13 ; Times: 16
+	Date: 2020-04-11 ; Times: 11
+	Date: 2020-04-10 ; Times: 18
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 57
+	Date: 2020-04-14 ; Times: 35
+	Date: 2020-04-04 ; Times: 15
+	Date: 2020-04-23 ; Times: 3
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-21 ; Times: 471
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 7
+	Date: 2020-04-02 ; Times: 6
+	Date: 2020-04-03 ; Times: 176
+	Date: 2020-04-28 ; Times: 3
+	Date: 2020-04-08 ; Times: 732
+	Date: 2020-04-09 ; Times: 15
+	Date: 2020-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 5
+	Query: "Bathybates" ; Times: 1
+	Query: "Mylochromis" ; Times: 10
+	Query: "Crystallaria asprella" ; Times: 5
+	Query: "Astatotilapia" ; Times: 3
+	Query: "Dimidiochromis strigatus" ; Times: 9
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Hyphessobrycon herbertaxelrodi" ; Times: 8
+	Query: "Siganus argenteus" ; Times: 5
+	Query: "Thysochromis ansorgii" ; Times: 4
+	Query: "Cottus carolinae" ; Times: 10
+	Query: "Ameiurus natalis" ; Times: 9
+	Query: "Maylandia zebra" ; Times: 18
+	Query: "Tropheops" ; Times: 9
+	Query: "Bryconops affinis" ; Times: 6
+	Query: "Coregonus clupeaformis" ; Times: 5
+	Query: "Brevoortia tyrannus" ; Times: 4
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "Chilotilapia rhoadesii" ; Times: 9
+	Query: "Dimidiochromis kiwinge" ; Times: 9
+	Query: "Boulengerochromis" ; Times: 2
+	Query: "Stenodus leucichthys" ; Times: 5
+	Query: "Cynoscion regalis" ; Times: 3
+	Query: "Hemibagrus nemurus" ; Times: 12
+	Query: "Notropis telescopus" ; Times: 2
+	Query: "Copadichromis trimaculatus" ; Times: 5
+	Query: "mylochromis" ; Times: 1
+	Query: "Serranochromis robustus" ; Times: 22
+	Query: "Taurulus bubalis" ; Times: 5
+	Query: "Mbipia" ; Times: 10
+	Query: "Interochromis" ; Times: 13
+	Query: "Cottus aleuticus" ; Times: 7
+	Query: "Sciaenops ocellatus" ; Times: 6
+	Query: "Myoxocephalus scorpius" ; Times: 8
+	Query: "Gymnocanthus tricuspis" ; Times: 8
+	Query: "Poecilia formosa" ; Times: 6
+	Query: "Clarias gariepinus" ; Times: 29
+	Query: "Fossorochromis rostratus" ; Times: 5
+	Query: "Merluccius albidus" ; Times: 6
+	Query: "Paracheirodon innesi" ; Times: 4
+	Query: "Hypophthalmichthys molitrix" ; Times: 9
+	Query: "Mormyrops anguilloides" ; Times: 4
+	Query: "Pimelodus pictus" ; Times: 10
+	Query: "Myoxocephalus aenaeus" ; Times: 8
+	Query: "Alburnus alburnus" ; Times: 19
+	Query: "Gephyrocharax atracaudatus" ; Times: 6
+	Query: "caffrogobius" ; Times: 1
+	Query: "23472" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 5
+	Query: "Hippoglossoides platessoides" ; Times: 5
+	Query: "Caesio Caerulaurea" ; Times: 1
+	Query: "Lampetra aepyptera" ; Times: 2
+	Query: "Periophthalmus barbarus" ; Times: 5
+	Query: "Myoxocephalus octodecemspinosus" ; Times: 8
+	Query: "Gnathonemus longibarbis" ; Times: 9
+	Query: "nandus nandus" ; Times: 1
+	Query: "Placidochromis longimanus" ; Times: 9
+	Query: "Poecilia reticulata" ; Times: 9
+	Query: "Lepomis gulosus" ; Times: 6
+	Query: "Pterophyllum scalare" ; Times: 3
+	Query: "Nimbochromis linni" ; Times: 5
+	Query: "Oreochromis variabilis" ; Times: 22
+	Query: "Protomelas" ; Times: 2
+	Query: "Glyptothorax cavia" ; Times: 5
+	Query: "Decapterus macrosoma" ; Times: 5
+	Query: "Astyanax mexicanus" ; Times: 5
+	Query: "Auchenipterichthys thoracatus" ; Times: 6
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Diplotaxodon limnothrissa" ; Times: 18
+	Query: "Polypterus senegalus" ; Times: 4
+	Query: "Oreochromis aureus" ; Times: 22
+	Query: "Corydoras schwartzi" ; Times: 4
+	Query: "Oncorhynchus kisutch" ; Times: 8
+	Query: "Copadichromis quadrimaculatus" ; Times: 9
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "Cheilopogon exsiliens" ; Times: 5
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "Carangoides ferdau" ; Times: 5
+	Query: "Clarias batrachus" ; Times: 21
+	Query: "Chalceus macrolepidotus" ; Times: 8
+	Query: "Acapoeta tanganicae" ; Times: 9
+	Query: "Gymnarchus niloticus" ; Times: 13
+	Query: "Cynoscion nebulosus" ; Times: 3
+	Query: "Lampetra planeri" ; Times: 2
+	Query: "Parambassis ranga" ; Times: 5
+	Query: "Protomelas annectens" ; Times: 5
+	Query: "Thayeria boehlkei" ; Times: 5
+	Query: "Leptocottus armatus" ; Times: 5
+	Query: "Eigenmannia virescens" ; Times: 6
+	Query: "Engraulis eurystole" ; Times: 4
+	Query: "Margariscus margarita" ; Times: 7
+	Query: "Hemigrammus bleheri" ; Times: 6
+	Query: "(18647)" ; Times: 2
+	Query: "Tropheus duboisi" ; Times: 18
+	Query: "Pseudolithoxus tigris" ; Times: 6
+	Query: "Cyprichromis" ; Times: 10
+	Query: "Astatotilapia calliptera" ; Times: 18
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "Barbatula barbatula" ; Times: 8
+	Query: "Lethrinops lethrinus" ; Times: 9
+	Query: "Takifugu oblongus" ; Times: 5
+	Query: "Boulengerella maculata" ; Times: 8
+	Query: "Uaru amphiacanthoides" ; Times: 5
+	Query: "22916" ; Times: 1
+	Query: "Petromyzon marinus" ; Times: 2
+	Query: "Pholis gunnellus" ; Times: 5
+	Query: "Labeo dyocheilus" ; Times: 9
+	Query: "Lethenteron appendix" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "Mastacembelus mastacembelus" ; Times: 4
+	Query: "Decapterus smithvanizi" ; Times: 5
+	Query: "Sarotherodon" ; Times: 9
+	Query: "B. marmoratus" ; Times: 5
+	Query: "Oncorhynchus gorbuscha" ; Times: 8
+	Query: "Fundulus grandis" ; Times: 4
+	Query: "Hyporhamphus quoyi" ; Times: 5
+	Query: "Petrotilapia nigra" ; Times: 18
+	Query: "Salmo salar" ; Times: 5
+	Query: "Lepomis auritus" ; Times: 5
+	Query: "Trachurus mediterraneus" ; Times: 5
+	Query: "(18677)" ; Times: 1
+	Query: "Argyrosomus hololepidotus" ; Times: 3
+	Query: "Trichogaster labiosa" ; Times: 1
+	Query: "kirtland stateprovince:&#34;pennsylvania&#34;" ; Times: 3
+	Query: "Astatotilapia burtoni" ; Times: 18
+	Query: "Exocoetus volitans" ; Times: 5
+	Query: "Dimidiochromis" ; Times: 1
+	Query: "Hemibates" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 7
+	Query: "Myloplus rubripinnis" ; Times: 8
+	Query: "Engraulis japonicus" ; Times: 4
+	Query: "Cottus gobio" ; Times: 10
+	Query: "Chrosomus erythrogaster" ; Times: 7
+	Query: "Genyochromis mento" ; Times: 18
+	Query: "Amphilophus citrinellus" ; Times: 2
+	Query: "Scomberomorus maculatus" ; Times: 5
+	Query: "Ameiurus melas" ; Times: 10
+	Query: "Metynnis hypsauchen" ; Times: 7
+	Query: "Thorichthys meeki" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 22
+	Query: "Hypostomus plecostomus" ; Times: 6
+	Query: "Parachromis managuensis" ; Times: 6
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "Trigonostigma heteromorpha" ; Times: 5
+	Query: "Gasterosteus wheatlandi" ; Times: 7
+	Query: "Pseudoplatystoma tigrinum" ; Times: 11
+	Query: "Mugil cephalus" ; Times: 8
+	Query: "Arius arius" ; Times: 8
+	Query: "Clarias theodorae" ; Times: 4
+	Query: "Rhamphochromis esox" ; Times: 18
+	Query: "Labeo chrysophekadion" ; Times: 5
+	Query: "stateprovince:&#34;MASSACHUSETTS&#34; institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Merluccius bilinearis" ; Times: 6
+	Query: "Gadus morhua" ; Times: 5
+	Query: "Sander vitreus" ; Times: 4
+	Query: "Chitala ornata" ; Times: 9
+	Query: "Eclectochromis" ; Times: 10
+	Query: "Decapterus macarellus" ; Times: 5
+	Query: "Ctenopharynx" ; Times: 1
+	Query: "Sardinella albella" ; Times: 9
+	Query: "Channa striata" ; Times: 5
+	Query: "Mozambique" ; Times: 2
+	Query: "Pterygoplichthys pardalis" ; Times: 6
+	Query: "Cottunculus thomsonii" ; Times: 5
+	Query: "Triacanthus biaculeatus" ; Times: 2
+	Query: "Paratilapia polleni" ; Times: 3
+	Query: "Merluccius gayi" ; Times: 6
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "Salvelinus malma" ; Times: 5
+	Query: "Cynotilapia afra" ; Times: 18
+	Query: "Barras Island" ; Times: 1
+	Query: "12876" ; Times: 1
+	Query: "Barbonymus schwanenfeldii" ; Times: 9
+	Query: "catalognumber:017142 institutioncode:YPM" ; Times: 2
+	Query: "Hoplias malabaricus" ; Times: 11
+	Query: "Pseudotropheus" ; Times: 8
+	Query: "Hyphessobrycon eques" ; Times: 6
+	Query: "Pogonias cromis" ; Times: 5
+	Query: "Polypterus endlicherii" ; Times: 4
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "Scomberomorus commerson" ; Times: 5
+	Query: "Limanda limanda" ; Times: 5
+	Query: "V. vulpes" ; Times: 5
+	Query: "Ctenochromis" ; Times: 3
+	Query: "Leuciscus leuciscus" ; Times: 14
+	Query: "Nesiarchus nasutus" ; Times: 5
+	Query: "Rocio octofasciata" ; Times: 3
+	Query: "Steatocranus" ; Times: 3
+	Query: "Docimodus" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 12
+	Query: "Platichthys stellatus" ; Times: 4
+	Query: "Lethenteron camtschaticum" ; Times: 2
+	Query: "Cottus bairdii" ; Times: 5
+	Query: "Larimus fasciatus" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Pterygoplichthys disjunctivus" ; Times: 6
+	Query: "Xenentodon cancila" ; Times: 5
+	Query: "Leiostomus xanthurus" ; Times: 6
+	Query: "catalognumber:017046 institutioncode:YPM" ; Times: 1
+	Query: "Datnioides microlepis" ; Times: 5
+	Query: "Corydoras agassizii" ; Times: 4
+	Query: "Terapon jarbua" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 11
+	Query: "Oncorhynchus mykiss" ; Times: 8
+	Query: "Brachyplatystoma vaillantii" ; Times: 6
+	Query: "Decapterus muroadsi" ; Times: 5
+	Query: "Orkney egg" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 16
+	Query: "Pimelodus ornatus" ; Times: 3
+	Query: "catalognumber:017146 institutioncode:YPM" ; Times: 4
+	Query: "Chrosomus neogaeus" ; Times: 7
+	Query: "Julidochromis" ; Times: 1
+	Query: "Trachurus lathami" ; Times: 5
+	Query: "Gasterosteus aculeatus" ; Times: 15
+	Query: "catalognumber:017161 institutioncode:YPM" ; Times: 2
+	Query: "Cottunculus microps" ; Times: 3
+	Query: "Osmerus mordax" ; Times: 5
+	Query: "Synodontis schoutedeni" ; Times: 5
+	Query: "ypm 84373" ; Times: 1
+	Query: "Perca flavescens" ; Times: 3
+	Query: "sarotherodon" ; Times: 1
+	Query: "Carassius auratus" ; Times: 14
+	Query: "Salvelinus alpinus" ; Times: 5
+	Query: "Mchenga" ; Times: 8
+	Query: "Siganus fuscescens" ; Times: 5
+	Query: "Engraulis ringens" ; Times: 2
+	Query: "Polypterus palmas" ; Times: 9
+	Query: "Pseudopleuronectes americanus" ; Times: 5
+	Query: "Congochromis" ; Times: 9
+	Query: "Gerres oyena" ; Times: 5
+	Query: "Tyrannochromis" ; Times: 2
+	Query: "Apteronotus albifrons" ; Times: 8
+	Query: "Anguilla rostrata" ; Times: 11
+	Query: "Oncorhynchus keta" ; Times: 8
+	Query: "Gnathonemus petersii" ; Times: 9
+	Query: "Aulonocara" ; Times: 3
+	Query: "Etheostoma chuckwachatte" ; Times: 4
+	Query: "Cheilopogon cyanopterus" ; Times: 5
+	Query: "Esox niger" ; Times: 3
+	Query: "Copadichromis mloto" ; Times: 9
+	Query: "Lutjanus argentimaculatus" ; Times: 5
+	Query: "Callichthys callichthys" ; Times: 2
+	Query: "Lethrinops" ; Times: 1
+	Query: "Cottus cognatus" ; Times: 7
+	Query: "Decapterus russelli" ; Times: 5
+	Query: "Kryptopterus bicirrhis" ; Times: 7
+	Query: "Ameiurus nebulosus" ; Times: 10
+	Query: "Cheilochromis" ; Times: 1
+	Query: "Tylochromis polylepis" ; Times: 5
+	Query: "Maravichromis" ; Times: 1
+	Query: "Decapterus tabl" ; Times: 5
+	Query: "Haplochromis" ; Times: 11
+	Query: "Cyathochromis obliquidens" ; Times: 14
+	Query: "Bagrus docmak" ; Times: 4
+	Query: "Symphysodon aequifasciata" ; Times: 2
+	Query: "Ameiurus brunneus" ; Times: 9
+	Query: "Mylochromis lateristriga" ; Times: 18
+	Query: "Decapterus akaadsi" ; Times: 5
+	Query: "Hyperopisus bebe" ; Times: 9
+	Query: "county:&#34;Perquimans&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Bryconamericus scleroparius" ; Times: 5
+	Query: "Sander canadensis" ; Times: 11
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Polypterus bichir" ; Times: 4
+	Query: "Phoxinus phoxinus" ; Times: 13
+	Query: "Tetragonopterus chalceus" ; Times: 8
+	Query: "Neolamprologus" ; Times: 2
+	Query: "Oreochromis esculentus" ; Times: 22
+	Query: "lutjanus inermis" ; Times: 1
+	Query: "Trematocranus placodon" ; Times: 5
+	Query: "Bathybates ferox" ; Times: 1
+	Query: "Hemitilapia oxyrhyncha" ; Times: 9
+	Query: "Cheilopogon heterurus" ; Times: 5
+	Query: "Bryconops caudomaculatus" ; Times: 6
+	Query: "Copadichromis" ; Times: 1
+	Query: "Altolamprologus" ; Times: 3
+	Query: "Nyassachromis" ; Times: 8
+	Query: "Sorubim lima" ; Times: 5
+	Query: "27883" ; Times: 1
+	Query: "Oreochromis tanganicae" ; Times: 23
+	Query: "Cynotilapia" ; Times: 1
+	Query: "Barras Island stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Thoracochromis" ; Times: 2
+	Query: "salmo salar" ; Times: 4
+	Query: "Pangasius pangasius" ; Times: 9
+	Query: "Mystus cavasius" ; Times: 7
+	Query: "Anchoa hepsetus" ; Times: 4
+	Query: "sphoeroides trichocephalus" ; Times: 2
+	Query: "Moenkhausia lepidura" ; Times: 2
+	Query: "Pygocentrus piraya" ; Times: 6
+	Query: "Micropogonias undulatus" ; Times: 6
+	Query: "Cyclocheilichthys apogon" ; Times: 9
+	Query: "stegastes acapulcoensis" ; Times: 1
+	Query: "Trichopsis vittata" ; Times: 5
+	Query: "Hirundichthys speculiger" ; Times: 5
+	Query: "haplochromis" ; Times: 1
+	Query: "Gnathochromis" ; Times: 1
+	Query: "Dimidiochromis compressiceps" ; Times: 5
+	Query: "Buccochromis nototaenia" ; Times: 14
+	Query: "Oreochromis niloticus" ; Times: 22
+	Query: "Phyllonemus typus" ; Times: 4
+	Query: "Perca fluviatilis" ; Times: 12
+	Query: "Couesius plumbeus" ; Times: 2
+	Query: "Serranochromis" ; Times: 3
+	Query: "interochromis" ; Times: 1
+	Query: "Coral Snake" ; Times: 3
+	Query: "Cottus asper" ; Times: 10
+	Query: "Apeltes quadracus" ; Times: 7
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Tropheus" ; Times: 2
+	Query: "Sardinella maderensis" ; Times: 9
+	Query: "catalognumber:017514 institutioncode:YPM" ; Times: 6
+	Query: "Lepomis gibbosus" ; Times: 6
+	Query: "Anarhichas lupus" ; Times: 4
+	Query: "Siganus spinus" ; Times: 5
+	Query: "Puntius chola" ; Times: 5
+	Query: "Merluccius merluccius" ; Times: 6
+	Query: "Rhamphochromis" ; Times: 2
+	Query: "unicorn" ; Times: 2
+	Query: "29346" ; Times: 1
+	Query: "Gymnotus carapo" ; Times: 8
+	Query: "Hypselecara temporalis" ; Times: 3
+	Query: "Cichla ocellaris" ; Times: 3
+	Query: "Andinoacara coeruleopunctatus" ; Times: 6
+	Query: "Carassius carassius" ; Times: 12
+	Query: "Dives dives" ; Times: 2
+	Query: "Oncorhynchus tshawytscha" ; Times: 5
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Hipposcarus harid" ; Times: 3
+	Query: "Esox lucius" ; Times: 10
+	Query: "Pungitius pungitius" ; Times: 14
+	Query: "Copadichromis virginalis" ; Times: 21
+	Query: "Cheilochromis euchilus" ; Times: 5
+	Query: "Channa micropeltes" ; Times: 5
+	Query: "Cheilopogon atrisignis" ; Times: 5
+	Query: "Paracheirodon axelrodi" ; Times: 4
+	Query: "Myoxocephalus quadricornis" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1171 download events in this period)
+Total number of records downloaded: 378
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: South Africa ; Times: 10
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-08 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Characidium" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "Datnioides microlepis" ; Times: 2
+	Query: "Hygophum taaningi" ; Times: 1
+	Query: "Lampanyctus festivus" ; Times: 1
+	Query: "Lampanyctus pusillus" ; Times: 1
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "Hygophum macrochir" ; Times: 1
+	Query: "Lampanyctus intricarius" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "Nannobrachium atrum" ; Times: 1
+	Query: "Lepidophanes gaussi" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+	Query: "Lampanyctus alatus" ; Times: 1
+
+
+End of report.
