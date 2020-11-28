@@ -1,0 +1,228 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 1434
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 47
+	Country: Australia ; Times: 7
+	Country: Honduras ; Times: 43
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 18
+	Country: France ; Times: 39
+	Country: United Kingdom ; Times: 39
+	Country: Malaysia ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Japan ; Times: 4
+	Country: Norway ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 9
+	Date: 2020-08-28 ; Times: 8
+	Date: 2020-08-19 ; Times: 18
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-12 ; Times: 6
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-29 ; Times: 14
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 8
+	Date: 2020-08-11 ; Times: 4
+	Date: 2020-08-07 ; Times: 16
+	Date: 2020-08-26 ; Times: 37
+	Date: 2020-08-27 ; Times: 24
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-25 ; Times: 7
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-09 ; Times: 3
+	Date: 2020-08-21 ; Times: 40
+
+List of queries that retrieved data from the resource: 
+	Query: "Dimidiochromis kiwinge" ; Times: 1
+	Query: "Dimidiochromis strigatus" ; Times: 1
+	Query: "specificepithet:laticeps genus:Cataetyx" ; Times: 2
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "Copadichromis quadrimaculatus" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "Brama dussumieri" ; Times: 1
+	Query: "Chilotilapia rhoadesii" ; Times: 1
+	Query: "Ablennes hians" ; Times: 1
+	Query: "Hypsopsetta guttulata" ; Times: 7
+	Query: "Elacatinus oceanops" ; Times: 1
+	Query: "Bajacalifornia megalops" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "microphis lineatus" ; Times: 1
+	Query: "Tylosurus pacificus" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 2
+	Query: "Trisopterus esmarkii" ; Times: 2
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "Alepocephalus agassizii" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Gnathonemus longibarbis" ; Times: 1
+	Query: "Hyporhamphus roberti" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "Kryptolebias marmoratus" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "percina nasuta" ; Times: 2
+	Query: "Alepocephalus australis" ; Times: 1
+	Query: "atractoscion nobilis" ; Times: 4
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "Lutjanus analis" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "Carangoides bartholomaei" ; Times: 1
+	Query: "Strongylura exilis" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "specificepithet:ornatus genus:Centrodraco" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "Heteroconger hassi" ; Times: 1
+	Query: "Kryptophanaron alfredi" ; Times: 2
+	Query: "Spicara smaris" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 1
+	Query: "Lethrinops lethrinus" ; Times: 1
+	Query: "Cirrhitichthys oxycephalus" ; Times: 1
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "bantam" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 1
+	Query: "Pomatomus saltator" ; Times: 1
+	Query: "B. marmoratus" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "Apogon pacificus" ; Times: 2
+	Query: "Caranx sexfasciatus" ; Times: 1
+	Query: "caranx ruber" ; Times: 1
+	Query: "Trachurus mediterraneus" ; Times: 1
+	Query: "genus:Centrodraco" ; Times: 3
+	Query: "Arapaima" ; Times: 1
+	Query: "Cyathochromis obliquidens" ; Times: 1
+	Query: "Atherinella eriarcha" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 2
+	Query: "29224" ; Times: 2
+	Query: "locality:barlow hollow" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Caranx bartholomaei" ; Times: 1
+	Query: "Ammodytes tobianus" ; Times: 2
+	Query: "Narcine entemedor" ; Times: 2
+	Query: "Acentronura" ; Times: 3
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Leptocephalus scopoli" ; Times: 1
+	Query: "Lutjanus peru" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "Foetorepus agassizii" ; Times: 3
+	Query: "Limanda limanda" ; Times: 1
+	Query: "munchen" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "Ophioblennius steindachner" ; Times: 1
+	Query: "25785" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 2
+	Query: "Platichthys stellatus" ; Times: 2
+	Query: "Spicara maena" ; Times: 1
+	Query: "Antennatus strigatus" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Scartella cristata" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Pollachius virens" ; Times: 2
+	Query: "Ariomma bondi" ; Times: 1
+	Query: "Gnathonemus petersii" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Syngnathus scovelli" ; Times: 1
+	Query: "Strongylura notata" ; Times: 1
+	Query: "Oreochromis variabilis" ; Times: 1
+	Query: "Copadichromis mloto" ; Times: 1
+	Query: "specificepithet:agassizii genus:Alepocephalus" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "Apogon lachneri" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 1
+	Query: "Apogon townsendi" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 1
+	Query: "Hyperopisus bebe" ; Times: 1
+	Query: "008417" ; Times: 2
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Caristius" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+	Query: "Lutjanus apodus" ; Times: 2
+	Query: "Oreochromis esculentus" ; Times: 1
+	Query: "Hemitilapia oxyrhyncha" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Oreochromis tanganicae" ; Times: 1
+	Query: "Cyprinella venusta vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Cetomimus" ; Times: 1
+	Query: "Argyropelecus aculeatus" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "Microphis brachyurus lineatus" ; Times: 1
+	Query: "Buccochromis nototaenia" ; Times: 1
+	Query: "Bothus leopardinus" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 2
+	Query: "Centropomus ensiferus" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Placidochromis longimanus" ; Times: 1
+	Query: "genus:Cataetyx" ; Times: 3
+	Query: "Caranx vinctus" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "Serranochromis robustus" ; Times: 1
+	Query: "Platybelone argalus argalus" ; Times: 2
+	Query: "Hypsopsetta guttulata guttulata" ; Times: 1
+	Query: "Leptocephalus Scopoli" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "country:&#34;Maldives&#34; syngnathidae" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "Copadichromis virginalis" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 6
+	Query: "Merlangius merlangus" ; Times: 3
+	Query: "country:&#34;Maldives&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 756 download events in this period)
+Total number of records downloaded: 6855
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Norway ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "atractoscion nobilis" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
