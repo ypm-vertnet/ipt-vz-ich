@@ -1,0 +1,196 @@
+Report for Institution Code YPM, Resource ipt_vz_ich
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 792
+Number of records retrieved in searches: 4602
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 21
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 754
+	Country: Peru ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-26 ; Times: 7
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 8
+	Date: 2020-06-15 ; Times: 100
+	Date: 2020-06-07 ; Times: 4
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-10 ; Times: 281
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-11 ; Times: 285
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-17 ; Times: 89
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "Salmo trutta" ; Times: 9
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Harengula clupeola" ; Times: 1
+	Query: "Siganus argenteus" ; Times: 6
+	Query: "Esox lucius" ; Times: 8
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "Scomberomorus concolor" ; Times: 6
+	Query: "Maylandia zebra" ; Times: 6
+	Query: "Coregonus clupeaformis" ; Times: 6
+	Query: "Stenodus leucichthys" ; Times: 6
+	Query: "Exocoetus volitans" ; Times: 6
+	Query: "Hemibagrus nemurus" ; Times: 6
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Cottus bairdii" ; Times: 4
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "paranthias furcifer" ; Times: 3
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 6
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "Glyptothorax cavia" ; Times: 6
+	Query: "Decapterus macrosoma" ; Times: 12
+	Query: "catalognumber:YPM ICH 010185 collectioncode:vz institutioncode:YPM" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "phycodurus eques" ; Times: 1
+	Query: "Parambassis ranga" ; Times: 6
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "notolepis coatsi" ; Times: 1
+	Query: "Clupea harengus" ; Times: 15
+	Query: "Tropheus duboisi" ; Times: 6
+	Query: "Osphronemus goramy" ; Times: 6
+	Query: "recordedby: william wood" ; Times: 1
+	Query: "Astatotilapia calliptera" ; Times: 6
+	Query: "Cichla temensis" ; Times: 1
+	Query: "Pomatoschistus microps" ; Times: 6
+	Query: "Labeo dyocheilus" ; Times: 6
+	Query: "Decapterus smithvanizi" ; Times: 6
+	Query: "Gambusia holbrooki" ; Times: 6
+	Query: "stateprovince:&#34;massachusetts&#34; institutioncode:YPM" ; Times: 1
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "persparsia kopua" ; Times: 1
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "Astatotilapia burtoni" ; Times: 6
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Genyochromis mento" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "Microglanis poecilus" ; Times: 1
+	Query: "Channa striata" ; Times: 12
+	Query: "Trigonostigma heteromorpha" ; Times: 6
+	Query: "Pomatoschistus minutus" ; Times: 6
+	Query: "Mugil cephalus" ; Times: 11
+	Query: "Arius arius" ; Times: 12
+	Query: "Rhamphochromis esox" ; Times: 6
+	Query: "Labeo chrysophekadion" ; Times: 12
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "Chitala ornata" ; Times: 12
+	Query: "microlophichthys microlophus" ; Times: 1
+	Query: "Sardinella albella" ; Times: 6
+	Query: "Sardinella maderensis" ; Times: 6
+	Query: "Siganus spinus" ; Times: 6
+	Query: "RT 287" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Cynotilapia afra" ; Times: 6
+	Query: "Scomber colias" ; Times: 6
+	Query: "Decapterus muroadsi" ; Times: 6
+	Query: "V-1132" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "family:batrachoididae hastissue:1" ; Times: 1
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Xenentodon cancila" ; Times: 12
+	Query: "Barbonymus schwanenfeldii" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Cyprinus carpio" ; Times: 5
+	Query: "Trichopsis vittata" ; Times: 12
+	Query: "melanogrammus aeglefinus" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "Gasterosteus aculeatus" ; Times: 11
+	Query: "Cyclocheilichthys apogon" ; Times: 12
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "stellifer stellifer" ; Times: 1
+	Query: "scuticaria tigrina" ; Times: 1
+	Query: "Cheilopogon cyanopterus" ; Times: 6
+	Query: "Oreochromis variabilis" ; Times: 6
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Cyathochromis obliquidens" ; Times: 6
+	Query: "Petrotilapia nigra" ; Times: 6
+	Query: "Mylochromis lateristriga" ; Times: 6
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Glossogobius giuris" ; Times: 6
+	Query: "genus:Monodactylus hastissue:1" ; Times: 1
+	Query: "Diplotaxodon limnothrissa" ; Times: 6
+	Query: "Oreochromis esculentus" ; Times: 6
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Cheilopogon heterurus" ; Times: 6
+	Query: "Oreochromis tanganicae" ; Times: 6
+	Query: "Bujurquina VITTATUS" ; Times: 1
+	Query: "Pristolepis fasciata" ; Times: 6
+	Query: "Hirundichthys speculiger" ; Times: 6
+	Query: "Takifugu oblongus" ; Times: 9
+	Query: "Buccochromis nototaenia" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "Cottus asper" ; Times: 6
+	Query: "Decapterus akaadsi" ; Times: 6
+	Query: "Macrognathus siamensis" ; Times: 6
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Puntius chola" ; Times: 6
+	Query: "21719" ; Times: 2
+	Query: "Serranochromis robustus" ; Times: 6
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Hipposcarus harid" ; Times: 6
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "Copadichromis virginalis" ; Times: 6
+	Query: "Cheilopogon atrisignis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 474 download events in this period)
+Total number of records downloaded: 209
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "locality:kentucky" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+
+
+End of report.
